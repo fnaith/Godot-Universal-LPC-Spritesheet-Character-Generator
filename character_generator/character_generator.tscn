@@ -1,0 +1,56 @@
+[gd_scene load_steps=3 format=3 uid="uid://d2xmlcv0fyouo"]
+
+[ext_resource type="Script" path="res://character_generator/character_generator.gd" id="1_1wl57"]
+[ext_resource type="Script" path="res://addons/LPCAnimatedSprite/LPCAnimatedSprite2D.gd" id="2_8om1h"]
+
+[node name="lpc" type="Node2D"]
+script = ExtResource("1_1wl57")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer"]
+offset_right = 500.0
+offset_bottom = 720.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/ScrollContainer"]
+layout_mode = 2
+
+[node name="AnimationLabel" type="Label" parent="CanvasLayer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "Animation"
+
+[node name="AnimationOption" type="OptionButton" parent="CanvasLayer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="GridContainer" type="GridContainer" parent="CanvasLayer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 700.0
+offset_right = -80.0
+grow_horizontal = 2
+grow_vertical = 2
+columns = 5
+
+[node name="Control" type="Control" parent="CanvasLayer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="SpriteParts" type="Node2D" parent="CanvasLayer/GridContainer/Control"]
+position = Vector2(96, 96)
+script = ExtResource("2_8om1h")
+DefaultAnimation = 10
+metadata/_edit_group_ = true
+
+[node name="Label" type="Label" parent="CanvasLayer/GridContainer/Control"]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_right = 38.0
+offset_bottom = 23.0
+grow_horizontal = 2
+text = "Sprite parts spear"
+horizontal_alignment = 1
+
+[connection signal="item_selected" from="CanvasLayer/ScrollContainer/VBoxContainer/AnimationOption" to="." method="_on_animation_option_item_selected"]
