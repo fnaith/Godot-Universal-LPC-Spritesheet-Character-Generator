@@ -341,8 +341,10 @@ def generate_spritesheet_json(spritesheet_list):
       'Shortsleeve',
       # Sleeveless
       'Sleeveless', 'Sleeveless laced', 'Sleeveless striped',\
+      'Sleeveless 2', 'Sleeveless 2 Buttoned', 'Sleeveless 2 Scoop', 'Sleeveless 2 VNeck',\
       'Blouse', 'Longsleeve blouse', 'Tunic', 'Sara Tunic', 'Robe', 'Scoop', 'Tanktop',\
-      'Child shirts'
+      'Child shirts',
+      'TShirt', 'TShirt Buttoned', 'TShirt Scoop', 'TShirt VNeck'
     ],
     'apron': ['Overskirt', 'Apron', 'Apron half', 'Apron full'],
     'overalls': ['Overalls'],
@@ -473,4 +475,4 @@ print(len(spritesheet_list))
 #stat_spritesheet_list(spritesheet_list)
 #copy_spritesheet(spritesheet_list)
 #generate_spritesheet_tres(spritesheet_list)
-#generate_spritesheet_json(spritesheet_list)
+generate_spritesheet_json(spritesheet_list)

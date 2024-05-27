@@ -416,23 +416,11 @@
 				["body/tail/cat/adult/fg/",125],
 				["body/tail/cat/adult/bg/",5]
 			]],
-			["light_brown",[
-				["body/tail/cat/adult/fg/",125],
-				["body/tail/cat/adult/bg/",5]
-			]],
-			["dark_brown",[
-				["body/tail/cat/adult/fg/",125],
-				["body/tail/cat/adult/bg/",5]
-			]],
 			["black",[
 				["body/tail/cat/adult/fg/",125],
 				["body/tail/cat/adult/bg/",5]
 			]],
 			["raven",[
-				["body/tail/cat/adult/fg/",125],
-				["body/tail/cat/adult/bg/",5]
-			]],
-			["dark_gray",[
 				["body/tail/cat/adult/fg/",125],
 				["body/tail/cat/adult/bg/",5]
 			]],
@@ -11471,119 +11459,119 @@
 		],
 		"XLong Ponytail": [
 			["blonde",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["ash",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["sandy",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["platinum",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["strawberry",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["redhead",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["ginger",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["carrot",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["chestnut",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["black",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["raven",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["gray",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["white",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["red",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["orange",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["gold",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["green",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["blue",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["navy",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["violet",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["purple",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["pink",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]],
 			["rose",[
-				["hair/xlong_ponytail/adult_front/",120],
-				["hair/xlong_ponytail/adult_back/",9],
-				["hair/xlong_ponytail/adult_top/",145]
+				["hair/xlong_ponytail/adult/mg/",120],
+				["hair/xlong_ponytail/adult/bg/",9],
+				["hair/xlong_ponytail/adult/fg/",145]
 			]]
 		],
 		"Loose": [
