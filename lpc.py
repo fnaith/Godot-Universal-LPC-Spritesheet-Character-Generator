@@ -312,7 +312,7 @@ def generate_spritesheet_json(spritesheet_list):
       # Glasses
       'Glasses', 'Halfmoon Glasses', 'Nerd Glasses', 'Shades', 'Secretary Glasses', 'Round Glasses', 'Sunglasses',\
       # Eyepatches
-      'Eyepatch Left', 'Eyepatch Right', 'Eyepatch 2 Left', 'Eyepatch 2 Right', 'Small Eyepatch Left', 'Small Eyepatch Right'
+      'Eyepatch Left', 'Eyepatch Right', 'Eyepatch 2 Left', 'Eyepatch 2 Right', 'Small Eyepatch Left', 'Small Eyepatch Right', 'Eyepatch Ambidextrous'
     ],
     'facial_left': ['Left Monocle'],
     'facial_left_trim': ['Left Monocle Frame Color'],
@@ -475,4 +475,4 @@ print(len(spritesheet_list))
 #stat_spritesheet_list(spritesheet_list)
 #copy_spritesheet(spritesheet_list)
 #generate_spritesheet_tres(spritesheet_list)
-generate_spritesheet_json(spritesheet_list)
+#generate_spritesheet_json(spritesheet_list)

@@ -15486,6 +15486,9 @@
 			["base",[
 				["facial/glasses/round/adult/",115]
 			]],
+			["sunglasses",[
+				["facial/glasses/round/adult/",115]
+			]],
 			["black",[
 				["facial/glasses/round/adult/",115]
 			]],
@@ -15585,6 +15588,9 @@
 		],
 		"Sunglasses": [
 			["base",[
+				["facial/glasses/sunglasses/adult/",115]
+			]],
+			["sunglasses",[
 				["facial/glasses/sunglasses/adult/",115]
 			]],
 			["black",[
@@ -15848,6 +15854,9 @@
 			["brown",[
 				["facial/patches/eyepatch2/left/adult/",115]
 			]],
+			["charcoal",[
+				["facial/patches/eyepatch2/left/adult/",115]
+			]],
 			["forest",[
 				["facial/patches/eyepatch2/left/adult/",115]
 			]],
@@ -15917,6 +15926,9 @@
 				["facial/patches/eyepatch2/right/adult/",115]
 			]],
 			["brown",[
+				["facial/patches/eyepatch2/right/adult/",115]
+			]],
+			["charcoal",[
 				["facial/patches/eyepatch2/right/adult/",115]
 			]],
 			["forest",[
@@ -16123,6 +16135,83 @@
 			]],
 			["yellow",[
 				["facial/patches/small/right/adult/",115]
+			]]
+		],
+		"Eyepatch Ambidextrous": [
+			["base",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["black",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["blue",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["bluegray",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["brown",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["charcoal",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["forest",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["gray",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["green",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["lavender",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["leather",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["maroon",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["navy",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["orange",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["pink",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["purple",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["red",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["rose",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["sky",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["slate",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["tan",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["teal",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["walnut",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["white",[
+				["facial/patches/eyepatch/ambi/adult/",115]
+			]],
+			["yellow",[
+				["facial/patches/eyepatch/ambi/adult/",115]
 			]]
 		]
 	},
