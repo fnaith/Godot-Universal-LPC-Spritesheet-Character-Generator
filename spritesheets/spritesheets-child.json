@@ -4954,154 +4954,306 @@
 		]
 	},
 	"headcover": {
-		"Thick headband": [
+		"Thick Headband": [
 			["black",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["blue",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["bluegray",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["brown",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["charcoal",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["forest",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["gray",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["green",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["lavender",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["leather",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["maroon",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["navy",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["orange",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["pink",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["purple",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["red",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["rose",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["sky",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["slate",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["tan",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["teal",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["walnut",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["white",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
 			]],
 			["yellow",[
-				["hat/head_band_thick/universal/child/",125]
+				["hat/head_band_thick/child/",125]
+			]]
+		]
+	},
+	"headcover_rune": {
+		"Thick Headband Rune": [
+			["black",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["blue",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["bluegray",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["brown",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["charcoal",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["forest",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["gray",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["green",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["lavender",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["leather",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["maroon",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["navy",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["orange",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["pink",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["purple",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["red",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["rose",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["sky",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["slate",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["tan",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["teal",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["walnut",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["white",[
+				["hat/head_band_thick/rune/child/",126]
+			]],
+			["yellow",[
+				["hat/head_band_thick/rune/child/",126]
 			]]
 		]
 	},
 	"hairtie": {
 		"Hair Tie": [
 			["black",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["blue",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["bluegray",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["brown",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["charcoal",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["forest",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["gray",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["green",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["lavender",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["leather",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["maroon",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["navy",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["orange",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["pink",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["purple",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["red",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["rose",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["sky",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["slate",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["tan",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["teal",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["walnut",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["white",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
 			]],
 			["yellow",[
-				["hat/hair_tie/universal/child/",125]
+				["hat/hair_tie/child/",125]
+			]]
+		]
+	},
+	"hairtie_rune": {
+		"Hair Tie Rune": [
+			["black",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["blue",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["bluegray",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["brown",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["charcoal",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["forest",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["gray",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["green",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["lavender",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["leather",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["maroon",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["navy",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["orange",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["pink",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["purple",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["red",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["rose",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["sky",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["slate",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["tan",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["teal",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["walnut",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["white",[
+				["hat/hair_tie/rune/child/",126]
+			]],
+			["yellow",[
+				["hat/hair_tie/rune/child/",126]
 			]]
 		]
 	},

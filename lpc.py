@@ -291,7 +291,8 @@ def generate_spritesheet_json(spritesheet_list):
     'horns': ['Backwards Horns', 'Curled Horns'],
     'fins': ['Fin', 'Short fin'],
     'bandana': ['Bandana', 'Skull Bandana', 'Mail'],
-    'headcover': ['Kerchief', 'Tied headband', 'Thick headband'],
+    'headcover': ['Kerchief', 'Tied headband', 'Thick Headband'],
+    'headcover_rune': ['Thick Headband Rune'],
     'hat': ['Formal', 'Reptile', 'Magic', 'Cloth',\
       # Helmets
       'Armet', 'Simple Armet', 'Barbarian', 'Barbarian nasal', 'Barbarian Viking', 'Barbuta', 'Simple barbuta', 'Bascinet', 'Pigface bascinet', 'Pigface bascinet raised', 'Round bascinet', 'Round bascinet raised', 'Close helm', 'Flattop', 'Greathelm', 'Horned helmet', 'Kettle helm', 'Legion', 'Maximus', 'Morion', 'Nasal helm', 'Norman helm', 'Pointed helm', 'Spangenhelm', 'Viking spangenhelm', 'Sugarloaf greathelm', 'Simple sugarloaf helm', 'Xeon helmet',\
@@ -303,6 +304,7 @@ def generate_spritesheet_json(spritesheet_list):
       'Santa', 'Elf'
     ],
     'hairtie': ['Hair Tie'],
+    'hairtie_rune': ['Hair Tie Rune'],
     'hairextl': ['Left Braid', 'Left XLong Braid', 'Left XLong Bang'],
     'hairextr': ['Right Braid', 'Right XLong Braid', 'Right XLong Bang'],
     'visor': ['Grated visor', 'Narrow grated visor', 'Horned visor', 'Pigface visor', 'Pigface visor raised', 'Round visor', 'Round visor raised', 'Slit visor', 'Narrow slit visor'],
