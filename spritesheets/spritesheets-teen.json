@@ -12829,184 +12829,184 @@
 		],
 		"Armet": [
 			["steel",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/armet/male/",130]
+				["hat/helmet/armet/adult/",130]
 			]]
 		],
 		"Simple Armet": [
 			["steel",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/armet_simple/male/",130]
+				["hat/helmet/armet_simple/adult/",130]
 			]]
 		],
 		"Barbarian": [
 			["steel",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/barbarian/male/",130]
+				["hat/helmet/barbarian/adult/",130]
 			]]
 		],
 		"Barbarian nasal": [
 			["steel",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/barbarian_nasal/male/",130]
+				["hat/helmet/barbarian_nasal/adult/",130]
 			]]
 		],
 		"Barbarian Viking": [
 			["steel",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/barbarian_viking/male/",130]
+				["hat/helmet/barbarian_viking/adult/",130]
 			]]
 		],
 		"Barbuta": [
 			["steel",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["iron",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["brass",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["copper",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["bronze",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["silver",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]],
 			["gold",[
-				["hat/helmet/barbuta/male/",130]
+				["hat/helmet/barbuta/female/",130]
 			]]
 		],
 		"Simple barbuta": [
 			["steel",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/barbuta_simple/male/",130]
+				["hat/helmet/barbuta_simple/adult/",130]
 			]]
 		],
 		"Bascinet": [
@@ -13141,106 +13141,106 @@
 		],
 		"Close helm": [
 			["steel",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["iron",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["brass",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["copper",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["bronze",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["silver",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]],
 			["gold",[
-				["hat/helmet/close/male/",130]
+				["hat/helmet/close/female/",130]
 			]]
 		],
 		"Flattop": [
 			["steel",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["iron",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["brass",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["copper",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["bronze",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["silver",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]],
 			["gold",[
-				["hat/helmet/flattop/male/",130]
+				["hat/helmet/flattop/female/",130]
 			]]
 		],
 		"Greathelm": [
 			["steel",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["iron",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["brass",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["copper",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["bronze",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["silver",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]],
 			["gold",[
-				["hat/helmet/greathelm/male/",130]
+				["hat/helmet/greathelm/female/",130]
 			]]
 		],
 		"Horned helmet": [
 			["steel",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/horned/male/",130]
+				["hat/helmet/horned/adult/",130]
 			]]
 		],
 		"Kettle helm": [
@@ -13250,54 +13250,54 @@
 		],
 		"Legion": [
 			["steel",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/legion/male/",130]
+				["hat/helmet/legion/adult/",130]
 			]]
 		],
 		"Maximus": [
 			["steel",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/maximus/male/",130]
+				["hat/helmet/maximus/adult/",130]
 			]]
 		],
 		"Morion": [
@@ -13328,28 +13328,28 @@
 		],
 		"Nasal helm": [
 			["steel",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/nasal/male/",130]
+				["hat/helmet/nasal/adult/",130]
 			]]
 		],
 		"Norman helm": [
@@ -13406,132 +13406,132 @@
 		],
 		"Spangenhelm": [
 			["steel",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/spangenhelm/male/",130]
+				["hat/helmet/spangenhelm/adult/",130]
 			]]
 		],
 		"Viking spangenhelm": [
 			["steel",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/spangenhelm_viking/male/",130]
+				["hat/helmet/spangenhelm_viking/adult/",130]
 			]]
 		],
 		"Sugarloaf greathelm": [
 			["steel",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["iron",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["brass",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["copper",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["bronze",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["silver",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]],
 			["gold",[
-				["hat/helmet/sugarloaf/male/",130]
+				["hat/helmet/sugarloaf/female/",130]
 			]]
 		],
 		"Simple sugarloaf helm": [
 			["steel",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["iron",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["brass",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["copper",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["bronze",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["silver",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]],
 			["gold",[
-				["hat/helmet/sugarloaf_simple/male/",130]
+				["hat/helmet/sugarloaf_simple/female/",130]
 			]]
 		],
 		"Xeon helmet": [
 			["steel",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["iron",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["ceramic",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["brass",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["copper",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["bronze",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["silver",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]],
 			["gold",[
-				["hat/helmet/xeon/male/",130]
+				["hat/helmet/xeon/adult/",130]
 			]]
 		],
 		"Bonnie": [
