@@ -16836,54 +16836,54 @@
 	"accessory": {
 		"Crest": [
 			["steel",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["iron",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["ceramic",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["brass",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["copper",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["bronze",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["silver",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["gold",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]]
 		],
 		"Centurion Crest": [
 			["steel",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["iron",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["ceramic",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["brass",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["copper",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["bronze",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["silver",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["gold",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]]
 		],
 		"Plumage": [
@@ -16962,150 +16962,150 @@
 		],
 		"Centurion Plumage": [
 			["black",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["blue",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["bluegray",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["brown",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["charcoal",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["forest",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["gray",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["green",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["lavender",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["leather",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["maroon",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["navy",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["orange",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["pink",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["purple",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["red",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["rose",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["sky",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["slate",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["tan",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["teal",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["walnut",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["white",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["yellow",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]]
 		],
 		"Legion Plumage": [
 			["black",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["blue",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["bluegray",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["brown",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["charcoal",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["forest",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["gray",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["green",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["lavender",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["leather",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["maroon",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["navy",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["orange",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["pink",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["purple",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["red",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["rose",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["sky",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["slate",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["tan",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["teal",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["walnut",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["white",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["yellow",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]]
 		]
 	},

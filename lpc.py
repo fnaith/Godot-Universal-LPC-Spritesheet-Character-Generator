@@ -308,7 +308,7 @@ def generate_spritesheet_json(spritesheet_list):
     'hairextl': ['Left Braid', 'Left XLong Braid', 'Left XLong Bang'],
     'hairextr': ['Right Braid', 'Right XLong Braid', 'Right XLong Bang'],
     'visor': ['Grated visor', 'Narrow grated visor', 'Horned visor', 'Pigface visor', 'Pigface visor raised', 'Round visor', 'Round visor raised', 'Slit visor', 'Narrow slit visor'],
-    'accessory': ['Crest', 'Centurion Crest', 'Helmet wings', 'Horns', 'Plumage', 'Centurion Plumage', 'Legion Plumage'],
+    'accessory': ['Crest', 'Centurion Crest', 'Helmet wings', 'Short Horns', 'Upward Horns', 'Downward Horns', 'Plumage', 'Centurion Plumage', 'Legion Plumage'],
     # Accessories
     'facial_eyes': [
       # Glasses

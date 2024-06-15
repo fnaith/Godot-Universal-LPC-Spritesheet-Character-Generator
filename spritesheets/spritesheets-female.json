@@ -17565,102 +17565,574 @@
 	"accessory": {
 		"Crest": [
 			["steel",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["iron",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["ceramic",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["brass",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["copper",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["bronze",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["silver",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]],
 			["gold",[
-				["hat/accessory/crest/male/",139]
+				["hat/accessory/crest/adult/",139]
 			]]
 		],
 		"Centurion Crest": [
 			["steel",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["iron",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["ceramic",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["brass",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["copper",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["bronze",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["silver",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]],
 			["gold",[
-				["hat/accessory/crest_centurion/male/",139]
+				["hat/accessory/crest_centurion/adult/",139]
 			]]
 		],
 		"Helmet wings": [
 			["steel",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["iron",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["ceramic",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["brass",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["copper",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["bronze",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["silver",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]],
 			["gold",[
-				["hat/accessory/wings/fg/male/",139],
-				["hat/accessory/wings/bg/male/",125]
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["black",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["blue",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["bluegray",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["brown",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["charcoal",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["forest",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["gray",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["green",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["lavender",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["leather",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["maroon",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["navy",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["orange",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["pink",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["purple",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["red",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["rose",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["sky",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["slate",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["tan",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["teal",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["walnut",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["white",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
+			]],
+			["yellow",[
+				["hat/accessory/wings/fg/adult/",139],
+				["hat/accessory/wings/bg/adult/",125]
 			]]
 		],
-		"Horns": [
-			["horns_1",[
-				["hat/accessory/horns/fg/male/",139],
-				["hat/accessory/horns/bg/male/",125]
+		"Short Horns": [
+			["steel",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
 			]],
-			["horns_2",[
-				["hat/accessory/horns/fg/male/",139],
-				["hat/accessory/horns/bg/male/",125]
+			["iron",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
 			]],
-			["horns_3",[
-				["hat/accessory/horns/fg/male/",139],
-				["hat/accessory/horns/bg/male/",125]
+			["ceramic",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["brass",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["copper",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["bronze",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["silver",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["gold",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["black",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["blue",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["bluegray",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["brown",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["charcoal",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["forest",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["gray",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["green",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["lavender",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["leather",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["maroon",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["navy",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["orange",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["pink",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["purple",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["red",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["rose",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["sky",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["slate",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["tan",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["teal",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["walnut",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["white",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]],
+			["yellow",[
+				["hat/accessory/horns_short/fg/adult/",139],
+				["hat/accessory/horns_short/bg/adult/",125]
+			]]
+		],
+		"Upward Horns": [
+			["steel",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["iron",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["ceramic",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["brass",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["copper",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["bronze",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["silver",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["gold",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["black",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["blue",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["bluegray",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["brown",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["charcoal",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["forest",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["gray",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["green",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["lavender",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["leather",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["maroon",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["navy",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["orange",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["pink",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["purple",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["red",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["rose",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["sky",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["slate",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["tan",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["teal",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["walnut",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["white",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]],
+			["yellow",[
+				["hat/accessory/horns_upward/fg/adult/",139],
+				["hat/accessory/horns_upward/bg/adult/",125]
+			]]
+		],
+		"Downward Horns": [
+			["steel",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["iron",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["ceramic",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["brass",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["copper",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["bronze",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["silver",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["gold",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["black",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["blue",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["bluegray",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["brown",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["charcoal",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["forest",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["gray",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["green",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["lavender",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["leather",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["maroon",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["navy",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["orange",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["pink",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["purple",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["red",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["rose",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["sky",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["slate",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["tan",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["teal",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["walnut",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["white",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
+			]],
+			["yellow",[
+				["hat/accessory/horns_downward/fg/adult/",139],
+				["hat/accessory/horns_downward/bg/adult/",125]
 			]]
 		],
 		"Plumage": [
@@ -17739,150 +18211,150 @@
 		],
 		"Centurion Plumage": [
 			["black",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["blue",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["bluegray",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["brown",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["charcoal",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["forest",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["gray",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["green",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["lavender",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["leather",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["maroon",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["navy",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["orange",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["pink",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["purple",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["red",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["rose",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["sky",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["slate",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["tan",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["teal",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["walnut",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["white",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]],
 			["yellow",[
-				["hat/accessory/plumage_centurion/male/",139]
+				["hat/accessory/plumage_centurion/adult/",139]
 			]]
 		],
 		"Legion Plumage": [
 			["black",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["blue",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["bluegray",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["brown",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["charcoal",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["forest",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["gray",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["green",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["lavender",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["leather",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["maroon",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["navy",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["orange",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["pink",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["purple",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["red",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["rose",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["sky",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["slate",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["tan",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["teal",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["walnut",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["white",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]],
 			["yellow",[
-				["hat/accessory/plumage_legion/male/",139]
+				["hat/accessory/plumage_legion/adult/",139]
 			]]
 		]
 	},
