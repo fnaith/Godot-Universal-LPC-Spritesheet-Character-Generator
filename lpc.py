@@ -339,13 +339,15 @@ def generate_spritesheet_json(spritesheet_list):
     'dress_sleeves_trim': ['Kimono Sleeves Trim', 'Kimono Oversized Sleeves Trim'],
     'clothes': [
       # Longsleeve
-      'Longsleeve', 'Collared/Formal Longsleeve', 'Striped Collared/Formal Longsleeve', 'Longsleeve laced',\
-      'Shortsleeve',
+      'Longsleeve', 'Collared/Formal Longsleeve', 'Striped Collared/Formal Longsleeve', 'Longsleeve laced', 'Longsleeve Polo',\
+      'Longsleeve 2', 'Longsleeve 2 Buttoned', 'Longsleeve 2 Scoop', 'Longsleeve 2 VNeck',\
+      # Shortsleeve
+      'Shortsleeve', 'Shortsleeve Polo',\
       # Sleeveless
       'Sleeveless', 'Sleeveless laced', 'Sleeveless striped',\
-      'Sleeveless 2', 'Sleeveless 2 Buttoned', 'Sleeveless 2 Scoop', 'Sleeveless 2 VNeck',\
+      'Sleeveless 2', 'Sleeveless 2 Buttoned', 'Sleeveless 2 Polo', 'Sleeveless 2 Scoop', 'Sleeveless 2 VNeck',\
       'Blouse', 'Longsleeve blouse', 'Tunic', 'Sara Tunic', 'Robe', 'Scoop', 'Tanktop',\
-      'Child shirts',
+      'Child shirts',\
       'TShirt', 'TShirt Buttoned', 'TShirt Scoop', 'TShirt VNeck'
     ],
     'apron': ['Overskirt', 'Apron', 'Apron half', 'Apron full'],
