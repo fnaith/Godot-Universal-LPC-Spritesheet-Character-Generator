@@ -409,7 +409,7 @@ def generate_spritesheet_json(spritesheet_list):
       # Scutum Shield'
       'Scutum shield',\
       # Heater Shield
-      'Heater shield wood'
+      'Heater shield wood', 'Heater Shield (Legacy Format) Base'
     ],
     'shield_trim': ['Scutum shield trim', 'Heater shield trim'],
     'shield_paint': ['Heater shield paint'],
