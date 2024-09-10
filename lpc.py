@@ -82,6 +82,8 @@ def validate_spritesheet(sheet_definitions, show_error, is_missing_spritesheet_e
         raise Exception('unknown body type : %s, %s, %s' % (sheet_definition['name'], type_name, item[0]))
     for item in key_count_items:
       if key_count_items[0][1] != item[1]:
+        print(item)
+        print(key_count_items)
         raise Exception('missing body type : %s, %s, %s' % (sheet_definition['name'], type_name, str(key_count_items)))
 
     variants = sheet_definition['variants']
@@ -409,11 +411,23 @@ def generate_spritesheet_json(spritesheet_list):
       # Scutum Shield'
       'Scutum shield',\
       # Heater Shield
-      'Heater shield wood', 'Heater Shield (Legacy Format) Base'
+      'Heater Shield Base', 'Revised Heater Shield Base'
     ],
-    'shield_trim': ['Scutum shield trim', 'Heater shield trim'],
-    'shield_paint': ['Heater shield paint'],
-    'shield_pattern': ['Heater shield pattern', 'barry', 'bend_sinister', 'bend', 'bendy_sinister', 'bendy', 'bordure', 'chevron_inverted', 'chevron', 'chief', 'cross', 'fess', 'lozengy', 'pale', 'pall', 'paly', 'per_bend_sinister', 'per_bend', 'per_chevron_inverted', 'per_chevron', 'per_fess', 'per_pale', 'per_saltire', 'quarterly', 'saltire'],
+    'shield_trim': ['Heater Shield Trim', 'Scutum shield trim', 'Revised Heater Shield Trim'],
+    'shield_paint': ['Heater Shield Paint', 'Revised Heater Shield Paint'],
+    'shield_pattern': [
+      'Heater shield pattern',\
+      'barry', 'bend', 'bend_sinister', 'bendy', 'bendy_sinister', 'bordure',\
+      'chevron', 'chevron_inverted', 'chief', 'cross', 'fess', 'lozengy',\
+      'pale', 'pall', 'paly', 'per_bend', 'per_bend_sinister',\
+      'per_chevron', 'per_chevron_inverted', 'per_fess',\
+      'per_pale', 'per_saltire', 'quarterly', 'saltire',\
+      'revised_barry', 'revised_bend', 'revised_bend_sinister', 'revised_bendy', 'revised_bendy_sinister', 'revised_bordure',\
+      'revised_chevron', 'revised_chevron_inverted', 'revised_chief', 'revised_cross', 'revised_fess', 'revised_lozengy',\
+      'revised_pale', 'revised_pall', 'revised_paly', 'revised_per_bend', 'revised_per_bend_sinister',\
+      'revised_per_chevron', 'revised_per_chevron_inverted', 'revised_per_fess',\
+      'revised_per_pale', 'revised_per_saltire', 'revised_quarterly', 'revised_saltire'
+    ],
     'ammo': ['Ammo'],
     'weapon_magic_crystal': ['Crystal'],
   }
@@ -479,4 +493,4 @@ print(len(spritesheet_list))
 #stat_spritesheet_list(spritesheet_list)
 #copy_spritesheet(spritesheet_list)
 #generate_spritesheet_tres(spritesheet_list)
-#generate_spritesheet_json(spritesheet_list)
+generate_spritesheet_json(spritesheet_list)
