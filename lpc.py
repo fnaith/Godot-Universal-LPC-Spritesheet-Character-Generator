@@ -235,7 +235,10 @@ def generate_spritesheet_json(spritesheet_list):
     'prosthesis_hand': ['Hook hand'],
     'prosthesis_leg': ['Peg leg'],
     'tail': ['Wolf Tail', 'Fluffy Wolf Tail', 'Cat Tail', 'Lizard tail', 'Lizard Tail (Alt Colors)'],
-    'wings': ['Feathered Wings', 'Bat Wings', 'Monarch Wings', 'Pixie Wings', 'Transparent Pixie Wings', 'Lunar Wings', 'Dragonfly Wings', 'Transparent Dragonfly Wings', 'Lizard wings', 'Batlike Lizard Wings'],
+    'wings': [
+      'Feathered Wings', 'Bat Wings', 'Monarch Wings', 'Pixie Wings', 'Transparent Pixie Wings',\
+      'Lunar Wings', 'Dragonfly Wings', 'Transparent Dragonfly Wings',\
+      'Lizard Wings', 'Batlike Lizard Wings', 'Lizard Wings (Alt Colors)'],
     'wings_edge': ['Monarch Wings Edge'],
     'wings_dots': ['Monarch Wings Dots'],
     # Head

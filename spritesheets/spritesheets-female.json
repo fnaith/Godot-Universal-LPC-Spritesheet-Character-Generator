@@ -697,246 +697,290 @@
 	"wings": {
 		"Feathered Wings": [
 			["blonde",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["ash",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["sandy",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["platinum",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["strawberry",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["redhead",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["ginger",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["carrot",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["chestnut",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["black",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["raven",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["gray",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["white",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["red",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["orange",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["gold",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["green",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["blue",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["navy",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["violet",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["purple",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["pink",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["rose",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_black",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_brown",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_tan",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_copper",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_gold",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_grey",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]],
 			["fur_white",[
-				["body/wings/feathered/universal/adult_front/",85],
-				["body/wings/feathered/universal/adult_back/",5]
+				["body/wings/feathered/adult/fg/",105],
+				["body/wings/feathered/adult/bg/",5]
 			]]
 		],
 		"Bat Wings": [
 			["blonde",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["ash",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["sandy",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["platinum",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["strawberry",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["redhead",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["ginger",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["carrot",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["chestnut",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["black",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["raven",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["gray",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["white",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["red",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["orange",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["gold",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["green",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["blue",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["navy",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["violet",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["purple",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["pink",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["rose",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["light",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["amber",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["olive",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["taupe",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["bronze",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["brown",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["lavender",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["zombie_green",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["pale_green",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["bright_green",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
+			]],
+			["dark_green",[
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_black",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_brown",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_tan",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_copper",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_gold",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_grey",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]],
 			["fur_white",[
-				["body/wings/bat/universal/adult_front/",85],
-				["body/wings/bat/universal/adult_back/",5]
+				["body/wings/bat/adult/fg/",105],
+				["body/wings/bat/adult/bg/",5]
 			]]
 		],
 		"Monarch Wings": [
@@ -1651,176 +1695,298 @@
 				["body/wings/dragonfly/transparent/bg/",5]
 			]]
 		],
-		"Lizard wings": [
+		"Lizard Wings": [
 			["light",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["amber",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["olive",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["taupe",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["bronze",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["brown",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["black",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["lavender",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["blue",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["zombie_green",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["green",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["pale_green",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["bright_green",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["dark_green",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_black",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_brown",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_tan",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_copper",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_gold",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_grey",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]],
 			["fur_white",[
-				["body/wings/lizard/fg/",85],
-				["body/wings/lizard/bg/",5]
+				["body/wings/lizard/adult/fg/",105],
+				["body/wings/lizard/adult/bg/",5]
 			]]
 		],
 		"Batlike Lizard Wings": [
 			["light",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["amber",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["olive",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["taupe",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["bronze",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["brown",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["black",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["lavender",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["blue",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["zombie_green",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["green",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["pale_green",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["bright_green",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["dark_green",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_black",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_brown",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_tan",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_copper",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_gold",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_grey",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
 			]],
 			["fur_white",[
-				["body/wings/bat/lizard/universal/adult_front/",85],
-				["body/wings/bat/lizard/universal/adult_back/",5]
+				["body/wings/bat/lizard/adult/fg/",105],
+				["body/wings/bat/lizard/adult/bg/",5]
+			]]
+		],
+		"Lizard Wings (Alt Colors)": [
+			["blonde",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["ash",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["sandy",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["platinum",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["strawberry",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["redhead",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["ginger",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["carrot",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["chestnut",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["black",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["raven",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["gray",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["white",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["red",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["orange",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["gold",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["green",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["blue",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["navy",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["violet",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["purple",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["pink",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["rose",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_black",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_brown",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_tan",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_copper",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_gold",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_grey",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
+			]],
+			["fur_white",[
+				["body/wings/lizard/alt/adult/fg/",105],
+				["body/wings/lizard/alt/adult/bg/",5]
 			]]
 		]
 	},
