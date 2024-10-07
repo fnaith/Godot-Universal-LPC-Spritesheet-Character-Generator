@@ -353,10 +353,11 @@ def generate_spritesheet_json(spritesheet_list):
       'Sleeveless 2', 'Sleeveless 2 Buttoned', 'Sleeveless 2 Polo', 'Sleeveless 2 Scoop', 'Sleeveless 2 VNeck',\
       'Blouse', 'Longsleeve blouse', 'Tunic', 'Sara Tunic', 'Robe', 'Scoop', 'Tanktop',\
       'Child shirts',\
-      'TShirt', 'TShirt Buttoned', 'TShirt Scoop', 'TShirt VNeck'
+      'TShirt', 'TShirt Buttoned', 'TShirt Scoop', 'TShirt VNeck',\
+      'Cardigan'
     ],
     'apron': ['Overskirt', 'Apron', 'Apron half', 'Apron full'],
-    'overalls': ['Overalls'],
+    'overalls': ['Overalls', 'Suspenders'],
     'bandages': ['Bandages'],
     'chainmail': ['Chainmail'],
     'jacket': ['Collared coat', 'Iverness cloak', 'Trench coat', 'Tabard', 'Frock coat', 'Santa coat'],
@@ -399,7 +400,7 @@ def generate_spritesheet_json(spritesheet_list):
       # Ranged
       'Crossbow', 'Slingshot', 'Boomerang', 'Normal', 'Great', 'Recurve',\
       # Sword
-      'Dagger', 'Glowsword', 'Longsword', 'Rapier', 'Saber', 'Katana', 'Scimitar', 'Longsword alt',\
+      'Dagger', 'Glowsword', 'Longsword', 'Rapier', 'Saber', 'Katana', 'Scimitar', 'Longsword alt', 'Arming Sword',\
       # Blunt'
       'Flail', 'Mace', 'Waraxe', 'Club',\
       # Polearm
