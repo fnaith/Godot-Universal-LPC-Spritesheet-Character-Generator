@@ -345,7 +345,7 @@ def generate_spritesheet_json(spritesheet_list):
     'clothes': [
       # Longsleeve
       'Longsleeve', 'Collared/Formal Longsleeve', 'Striped Collared/Formal Longsleeve', 'Longsleeve laced', 'Longsleeve Polo',\
-      'Longsleeve 2', 'Longsleeve 2 Buttoned', 'Longsleeve 2 Scoop', 'Longsleeve 2 VNeck',\
+      'Longsleeve 2', 'Longsleeve 2 Buttoned', 'Longsleeve 2 Scoop', 'Longsleeve 2 VNeck', 'Cardigan',\
       # Shortsleeve
       'Shortsleeve', 'Shortsleeve Polo',\
       # Sleeveless
@@ -353,8 +353,7 @@ def generate_spritesheet_json(spritesheet_list):
       'Sleeveless 2', 'Sleeveless 2 Buttoned', 'Sleeveless 2 Polo', 'Sleeveless 2 Scoop', 'Sleeveless 2 VNeck',\
       'Blouse', 'Longsleeve blouse', 'Tunic', 'Sara Tunic', 'Robe', 'Scoop', 'Tanktop',\
       'Child shirts',\
-      'TShirt', 'TShirt Buttoned', 'TShirt Scoop', 'TShirt VNeck',\
-      'Cardigan'
+      'TShirt', 'TShirt Buttoned', 'TShirt Scoop', 'TShirt VNeck'
     ],
     'apron': ['Overskirt', 'Apron', 'Apron half', 'Apron full'],
     'overalls': ['Overalls', 'Suspenders'],
