@@ -243,7 +243,7 @@ def generate_spritesheet_json(spritesheet_list):
     'wings_dots': ['Monarch Wings Dots'],
     # Head
     'head': [
-      'Human female', 'Human male', 'Human female elderly', 'Human male elderly', 'Human male plump', 'Human male gaunt', 'Human child',\
+      'Human female', 'Human male', 'Human female elderly', 'Human male elderly', 'Human male plump', 'Human male gaunt', 'Human child', 'Human male small', 'Human female small', 'Human elderly small',\
       'Boarman', 'Boarman child',\
       'Pig', 'Pig child',\
       'Sheep', 'Sheep child',\
@@ -378,17 +378,17 @@ def generate_spritesheet_json(spritesheet_list):
     'sash_tie': ['Obi Knot'],
     # Legs
     'legs': [
-      'Armour', 'Pants',\
+      'Armour', 'Pants', 'Pants 2',\
       'Wide pants', 'Pregnancy pants', 'Child pants',\
-      'Pantaloons', 'Plain skirt', 'Slit skirt', 'Legion skirt', 'Belle skirt', 'Straight skirt', 'Leggings',\
-      'Child skirts'
+      'Pantaloons', 'Plain skirt', 'Slit skirt', 'Legion skirt', 'Belle skirt', 'Straight skirt', 'Leggings', 'Leggings 2',\
+      'Child skirts', 'Cuffed Pants', 'Hose', 'Shorts', 'Short Shorts'
     ],
-    'socks': ['Tabi Socks'],
+    'socks': ['Tabi Socks', 'Ankle Socks', 'High Socks'],
     'shoes': [
       # Boots
-      'Boots', 'Fold Boots', 'Rim Boots',\
+      'Boots', 'Boots 2', 'Fold Boots', 'Rim Boots',\
       # Shoes
-      'Armour', 'Slippers', 'Shoes', 'Hoofs', 'Sandals', 'Ghillies',\
+      'Armour', 'Slippers', 'Shoes', 'Shoes 2', 'Hoofs', 'Sandals', 'Ghillies',\
       'Sara'
     ],
     'shoes_plate': ['Boots Metal Plating'],

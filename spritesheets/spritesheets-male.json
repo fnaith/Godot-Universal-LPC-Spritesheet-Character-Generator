@@ -2647,6 +2647,210 @@
 				["head/heads/human/male_gaunt/",100]
 			]]
 		],
+		"Human male small": [
+			["light",[
+				["head/heads/human/male_small/",100]
+			]],
+			["amber",[
+				["head/heads/human/male_small/",100]
+			]],
+			["olive",[
+				["head/heads/human/male_small/",100]
+			]],
+			["taupe",[
+				["head/heads/human/male_small/",100]
+			]],
+			["bronze",[
+				["head/heads/human/male_small/",100]
+			]],
+			["brown",[
+				["head/heads/human/male_small/",100]
+			]],
+			["black",[
+				["head/heads/human/male_small/",100]
+			]],
+			["lavender",[
+				["head/heads/human/male_small/",100]
+			]],
+			["blue",[
+				["head/heads/human/male_small/",100]
+			]],
+			["zombie_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["pale_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["bright_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["dark_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["zombie",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_black",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_brown",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_tan",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_copper",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_gold",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_grey",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_white",[
+				["head/heads/human/male_small/",100]
+			]]
+		],
+		"Human female small": [
+			["light",[
+				["head/heads/human/female_small/",100]
+			]],
+			["amber",[
+				["head/heads/human/female_small/",100]
+			]],
+			["olive",[
+				["head/heads/human/female_small/",100]
+			]],
+			["taupe",[
+				["head/heads/human/female_small/",100]
+			]],
+			["bronze",[
+				["head/heads/human/female_small/",100]
+			]],
+			["brown",[
+				["head/heads/human/female_small/",100]
+			]],
+			["black",[
+				["head/heads/human/female_small/",100]
+			]],
+			["lavender",[
+				["head/heads/human/female_small/",100]
+			]],
+			["blue",[
+				["head/heads/human/female_small/",100]
+			]],
+			["zombie_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["pale_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["bright_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["dark_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["zombie",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_black",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_brown",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_tan",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_copper",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_gold",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_grey",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_white",[
+				["head/heads/human/female_small/",100]
+			]]
+		],
+		"Human elderly small": [
+			["light",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["amber",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["olive",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["taupe",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["bronze",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["brown",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["black",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["lavender",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["blue",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["zombie_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["pale_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["bright_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["dark_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["zombie",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_black",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_brown",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_tan",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_copper",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_gold",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_grey",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_white",[
+				["head/heads/human/elderly_small/",100]
+			]]
+		],
 		"Boarman": [
 			["fur_black",[
 				["head/heads/boarman/adult/",100]
@@ -21279,100 +21483,100 @@
 	"gloves": {
 		"Gloves": [
 			["brass",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["bronze",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["ceramic",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["copper",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["gold",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["iron",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["silver",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["steel",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["black",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["blue",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["bluegray",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["brown",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["charcoal",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["forest",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["gray",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["green",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["lavender",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["leather",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["maroon",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["navy",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["orange",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["pink",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["purple",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["red",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["rose",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["sky",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["slate",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["tan",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["teal",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["walnut",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["white",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]],
 			["yellow",[
-				["gloves/male/",70]
+				["arms/gloves/male/",70]
 			]]
 		]
 	},

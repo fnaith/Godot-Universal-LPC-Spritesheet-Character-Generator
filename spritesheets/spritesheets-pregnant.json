@@ -2621,6 +2621,210 @@
 				["head/heads/human/male_gaunt/",100]
 			]]
 		],
+		"Human male small": [
+			["light",[
+				["head/heads/human/male_small/",100]
+			]],
+			["amber",[
+				["head/heads/human/male_small/",100]
+			]],
+			["olive",[
+				["head/heads/human/male_small/",100]
+			]],
+			["taupe",[
+				["head/heads/human/male_small/",100]
+			]],
+			["bronze",[
+				["head/heads/human/male_small/",100]
+			]],
+			["brown",[
+				["head/heads/human/male_small/",100]
+			]],
+			["black",[
+				["head/heads/human/male_small/",100]
+			]],
+			["lavender",[
+				["head/heads/human/male_small/",100]
+			]],
+			["blue",[
+				["head/heads/human/male_small/",100]
+			]],
+			["zombie_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["pale_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["bright_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["dark_green",[
+				["head/heads/human/male_small/",100]
+			]],
+			["zombie",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_black",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_brown",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_tan",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_copper",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_gold",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_grey",[
+				["head/heads/human/male_small/",100]
+			]],
+			["fur_white",[
+				["head/heads/human/male_small/",100]
+			]]
+		],
+		"Human female small": [
+			["light",[
+				["head/heads/human/female_small/",100]
+			]],
+			["amber",[
+				["head/heads/human/female_small/",100]
+			]],
+			["olive",[
+				["head/heads/human/female_small/",100]
+			]],
+			["taupe",[
+				["head/heads/human/female_small/",100]
+			]],
+			["bronze",[
+				["head/heads/human/female_small/",100]
+			]],
+			["brown",[
+				["head/heads/human/female_small/",100]
+			]],
+			["black",[
+				["head/heads/human/female_small/",100]
+			]],
+			["lavender",[
+				["head/heads/human/female_small/",100]
+			]],
+			["blue",[
+				["head/heads/human/female_small/",100]
+			]],
+			["zombie_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["pale_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["bright_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["dark_green",[
+				["head/heads/human/female_small/",100]
+			]],
+			["zombie",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_black",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_brown",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_tan",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_copper",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_gold",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_grey",[
+				["head/heads/human/female_small/",100]
+			]],
+			["fur_white",[
+				["head/heads/human/female_small/",100]
+			]]
+		],
+		"Human elderly small": [
+			["light",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["amber",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["olive",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["taupe",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["bronze",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["brown",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["black",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["lavender",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["blue",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["zombie_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["pale_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["bright_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["dark_green",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["zombie",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_black",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_brown",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_tan",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_copper",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_gold",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_grey",[
+				["head/heads/human/elderly_small/",100]
+			]],
+			["fur_white",[
+				["head/heads/human/elderly_small/",100]
+			]]
+		],
 		"Boarman": [
 			["fur_black",[
 				["head/heads/boarman/adult/",100]
@@ -18210,100 +18414,100 @@
 	"gloves": {
 		"Gloves": [
 			["brass",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["bronze",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["ceramic",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["copper",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["gold",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["iron",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["silver",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["steel",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["black",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["blue",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["bluegray",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["brown",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["charcoal",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["forest",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["gray",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["green",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["lavender",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["leather",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["maroon",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["navy",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["orange",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["pink",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["purple",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["red",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["rose",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["sky",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["slate",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["tan",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["teal",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["walnut",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["white",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]],
 			["yellow",[
-				["gloves/female/",70]
+				["arms/gloves/female/",70]
 			]]
 		]
 	},
@@ -19459,6 +19663,80 @@
 		]
 	},
 	"legs": {
+		"Pants 2": [
+			["leather",[
+				["legs/pants2/thin/",20]
+			]],
+			["black",[
+				["legs/pants2/thin/",20]
+			]],
+			["blue",[
+				["legs/pants2/thin/",20]
+			]],
+			["bluegray",[
+				["legs/pants2/thin/",20]
+			]],
+			["brown",[
+				["legs/pants2/thin/",20]
+			]],
+			["charcoal",[
+				["legs/pants2/thin/",20]
+			]],
+			["forest",[
+				["legs/pants2/thin/",20]
+			]],
+			["gray",[
+				["legs/pants2/thin/",20]
+			]],
+			["green",[
+				["legs/pants2/thin/",20]
+			]],
+			["lavender",[
+				["legs/pants2/thin/",20]
+			]],
+			["maroon",[
+				["legs/pants2/thin/",20]
+			]],
+			["navy",[
+				["legs/pants2/thin/",20]
+			]],
+			["orange",[
+				["legs/pants2/thin/",20]
+			]],
+			["pink",[
+				["legs/pants2/thin/",20]
+			]],
+			["purple",[
+				["legs/pants2/thin/",20]
+			]],
+			["red",[
+				["legs/pants2/thin/",20]
+			]],
+			["rose",[
+				["legs/pants2/thin/",20]
+			]],
+			["sky",[
+				["legs/pants2/thin/",20]
+			]],
+			["slate",[
+				["legs/pants2/thin/",20]
+			]],
+			["tan",[
+				["legs/pants2/thin/",20]
+			]],
+			["teal",[
+				["legs/pants2/thin/",20]
+			]],
+			["walnut",[
+				["legs/pants2/thin/",20]
+			]],
+			["white",[
+				["legs/pants2/thin/",20]
+			]],
+			["yellow",[
+				["legs/pants2/thin/",20]
+			]]
+		],
 		"Pregnancy pants": [
 			["black",[
 				["legs/pants/pregnant/",20]
@@ -19887,6 +20165,376 @@
 			["yellow",[
 				["legs/leggings/female/",20]
 			]]
+		],
+		"Leggings 2": [
+			["leather",[
+				["legs/leggings2/thin/",20]
+			]],
+			["black",[
+				["legs/leggings2/thin/",20]
+			]],
+			["blue",[
+				["legs/leggings2/thin/",20]
+			]],
+			["bluegray",[
+				["legs/leggings2/thin/",20]
+			]],
+			["brown",[
+				["legs/leggings2/thin/",20]
+			]],
+			["charcoal",[
+				["legs/leggings2/thin/",20]
+			]],
+			["forest",[
+				["legs/leggings2/thin/",20]
+			]],
+			["gray",[
+				["legs/leggings2/thin/",20]
+			]],
+			["green",[
+				["legs/leggings2/thin/",20]
+			]],
+			["lavender",[
+				["legs/leggings2/thin/",20]
+			]],
+			["maroon",[
+				["legs/leggings2/thin/",20]
+			]],
+			["navy",[
+				["legs/leggings2/thin/",20]
+			]],
+			["orange",[
+				["legs/leggings2/thin/",20]
+			]],
+			["pink",[
+				["legs/leggings2/thin/",20]
+			]],
+			["purple",[
+				["legs/leggings2/thin/",20]
+			]],
+			["red",[
+				["legs/leggings2/thin/",20]
+			]],
+			["rose",[
+				["legs/leggings2/thin/",20]
+			]],
+			["sky",[
+				["legs/leggings2/thin/",20]
+			]],
+			["slate",[
+				["legs/leggings2/thin/",20]
+			]],
+			["tan",[
+				["legs/leggings2/thin/",20]
+			]],
+			["teal",[
+				["legs/leggings2/thin/",20]
+			]],
+			["walnut",[
+				["legs/leggings2/thin/",20]
+			]],
+			["white",[
+				["legs/leggings2/thin/",20]
+			]],
+			["yellow",[
+				["legs/leggings2/thin/",20]
+			]]
+		],
+		"Cuffed Pants": [
+			["leather",[
+				["legs/cuffed/thin/",20]
+			]],
+			["black",[
+				["legs/cuffed/thin/",20]
+			]],
+			["blue",[
+				["legs/cuffed/thin/",20]
+			]],
+			["bluegray",[
+				["legs/cuffed/thin/",20]
+			]],
+			["brown",[
+				["legs/cuffed/thin/",20]
+			]],
+			["charcoal",[
+				["legs/cuffed/thin/",20]
+			]],
+			["forest",[
+				["legs/cuffed/thin/",20]
+			]],
+			["gray",[
+				["legs/cuffed/thin/",20]
+			]],
+			["green",[
+				["legs/cuffed/thin/",20]
+			]],
+			["lavender",[
+				["legs/cuffed/thin/",20]
+			]],
+			["maroon",[
+				["legs/cuffed/thin/",20]
+			]],
+			["navy",[
+				["legs/cuffed/thin/",20]
+			]],
+			["orange",[
+				["legs/cuffed/thin/",20]
+			]],
+			["pink",[
+				["legs/cuffed/thin/",20]
+			]],
+			["purple",[
+				["legs/cuffed/thin/",20]
+			]],
+			["red",[
+				["legs/cuffed/thin/",20]
+			]],
+			["rose",[
+				["legs/cuffed/thin/",20]
+			]],
+			["sky",[
+				["legs/cuffed/thin/",20]
+			]],
+			["slate",[
+				["legs/cuffed/thin/",20]
+			]],
+			["tan",[
+				["legs/cuffed/thin/",20]
+			]],
+			["teal",[
+				["legs/cuffed/thin/",20]
+			]],
+			["walnut",[
+				["legs/cuffed/thin/",20]
+			]],
+			["white",[
+				["legs/cuffed/thin/",20]
+			]],
+			["yellow",[
+				["legs/cuffed/thin/",20]
+			]]
+		],
+		"Hose": [
+			["leather",[
+				["legs/hose/thin/",20]
+			]],
+			["black",[
+				["legs/hose/thin/",20]
+			]],
+			["blue",[
+				["legs/hose/thin/",20]
+			]],
+			["bluegray",[
+				["legs/hose/thin/",20]
+			]],
+			["brown",[
+				["legs/hose/thin/",20]
+			]],
+			["charcoal",[
+				["legs/hose/thin/",20]
+			]],
+			["forest",[
+				["legs/hose/thin/",20]
+			]],
+			["gray",[
+				["legs/hose/thin/",20]
+			]],
+			["green",[
+				["legs/hose/thin/",20]
+			]],
+			["lavender",[
+				["legs/hose/thin/",20]
+			]],
+			["maroon",[
+				["legs/hose/thin/",20]
+			]],
+			["navy",[
+				["legs/hose/thin/",20]
+			]],
+			["orange",[
+				["legs/hose/thin/",20]
+			]],
+			["pink",[
+				["legs/hose/thin/",20]
+			]],
+			["purple",[
+				["legs/hose/thin/",20]
+			]],
+			["red",[
+				["legs/hose/thin/",20]
+			]],
+			["rose",[
+				["legs/hose/thin/",20]
+			]],
+			["sky",[
+				["legs/hose/thin/",20]
+			]],
+			["slate",[
+				["legs/hose/thin/",20]
+			]],
+			["tan",[
+				["legs/hose/thin/",20]
+			]],
+			["teal",[
+				["legs/hose/thin/",20]
+			]],
+			["walnut",[
+				["legs/hose/thin/",20]
+			]],
+			["white",[
+				["legs/hose/thin/",20]
+			]],
+			["yellow",[
+				["legs/hose/thin/",20]
+			]]
+		],
+		"Shorts": [
+			["leather",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["black",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["blue",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["bluegray",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["brown",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["charcoal",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["forest",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["gray",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["green",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["lavender",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["maroon",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["navy",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["orange",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["pink",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["purple",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["red",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["rose",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["sky",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["slate",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["tan",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["teal",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["walnut",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["white",[
+				["legs/shorts/shorts/thin/",20]
+			]],
+			["yellow",[
+				["legs/shorts/shorts/thin/",20]
+			]]
+		],
+		"Short Shorts": [
+			["leather",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["black",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["blue",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["bluegray",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["brown",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["charcoal",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["forest",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["gray",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["green",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["lavender",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["maroon",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["navy",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["orange",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["pink",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["purple",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["red",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["rose",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["sky",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["slate",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["tan",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["teal",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["walnut",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["white",[
+				["legs/shorts/short_shorts/thin/",20]
+			]],
+			["yellow",[
+				["legs/shorts/short_shorts/thin/",20]
+			]]
 		]
 	},
 	"socks": {
@@ -19963,6 +20611,154 @@
 			["yellow",[
 				["feet/socks/tabi/universal/female/",14]
 			]]
+		],
+		"Ankle Socks": [
+			["leather",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["black",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["blue",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["bluegray",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["brown",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["charcoal",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["forest",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["gray",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["green",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["lavender",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["maroon",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["navy",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["orange",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["pink",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["purple",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["red",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["rose",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["sky",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["slate",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["tan",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["teal",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["walnut",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["white",[
+				["feet/socks/ankle/thin/",14]
+			]],
+			["yellow",[
+				["feet/socks/ankle/thin/",14]
+			]]
+		],
+		"High Socks": [
+			["leather",[
+				["feet/socks/high/thin/",14]
+			]],
+			["black",[
+				["feet/socks/high/thin/",14]
+			]],
+			["blue",[
+				["feet/socks/high/thin/",14]
+			]],
+			["bluegray",[
+				["feet/socks/high/thin/",14]
+			]],
+			["brown",[
+				["feet/socks/high/thin/",14]
+			]],
+			["charcoal",[
+				["feet/socks/high/thin/",14]
+			]],
+			["forest",[
+				["feet/socks/high/thin/",14]
+			]],
+			["gray",[
+				["feet/socks/high/thin/",14]
+			]],
+			["green",[
+				["feet/socks/high/thin/",14]
+			]],
+			["lavender",[
+				["feet/socks/high/thin/",14]
+			]],
+			["maroon",[
+				["feet/socks/high/thin/",14]
+			]],
+			["navy",[
+				["feet/socks/high/thin/",14]
+			]],
+			["orange",[
+				["feet/socks/high/thin/",14]
+			]],
+			["pink",[
+				["feet/socks/high/thin/",14]
+			]],
+			["purple",[
+				["feet/socks/high/thin/",14]
+			]],
+			["red",[
+				["feet/socks/high/thin/",14]
+			]],
+			["rose",[
+				["feet/socks/high/thin/",14]
+			]],
+			["sky",[
+				["feet/socks/high/thin/",14]
+			]],
+			["slate",[
+				["feet/socks/high/thin/",14]
+			]],
+			["tan",[
+				["feet/socks/high/thin/",14]
+			]],
+			["teal",[
+				["feet/socks/high/thin/",14]
+			]],
+			["walnut",[
+				["feet/socks/high/thin/",14]
+			]],
+			["white",[
+				["feet/socks/high/thin/",14]
+			]],
+			["yellow",[
+				["feet/socks/high/thin/",14]
+			]]
 		]
 	},
 	"shoes": {
@@ -20038,6 +20834,104 @@
 			]],
 			["yellow",[
 				["feet/boots/female/",25]
+			]]
+		],
+		"Boots 2": [
+			["black",[
+				["feet/boots2/thin/",15]
+			]],
+			["blue",[
+				["feet/boots2/thin/",15]
+			]],
+			["bluegray",[
+				["feet/boots2/thin/",15]
+			]],
+			["brown",[
+				["feet/boots2/thin/",15]
+			]],
+			["charcoal",[
+				["feet/boots2/thin/",15]
+			]],
+			["forest",[
+				["feet/boots2/thin/",15]
+			]],
+			["gray",[
+				["feet/boots2/thin/",15]
+			]],
+			["green",[
+				["feet/boots2/thin/",15]
+			]],
+			["lavender",[
+				["feet/boots2/thin/",15]
+			]],
+			["leather",[
+				["feet/boots2/thin/",15]
+			]],
+			["maroon",[
+				["feet/boots2/thin/",15]
+			]],
+			["navy",[
+				["feet/boots2/thin/",15]
+			]],
+			["orange",[
+				["feet/boots2/thin/",15]
+			]],
+			["pink",[
+				["feet/boots2/thin/",15]
+			]],
+			["purple",[
+				["feet/boots2/thin/",15]
+			]],
+			["red",[
+				["feet/boots2/thin/",15]
+			]],
+			["rose",[
+				["feet/boots2/thin/",15]
+			]],
+			["sky",[
+				["feet/boots2/thin/",15]
+			]],
+			["slate",[
+				["feet/boots2/thin/",15]
+			]],
+			["tan",[
+				["feet/boots2/thin/",15]
+			]],
+			["teal",[
+				["feet/boots2/thin/",15]
+			]],
+			["walnut",[
+				["feet/boots2/thin/",15]
+			]],
+			["white",[
+				["feet/boots2/thin/",15]
+			]],
+			["yellow",[
+				["feet/boots2/thin/",15]
+			]],
+			["steel",[
+				["feet/boots2/thin/",15]
+			]],
+			["iron",[
+				["feet/boots2/thin/",15]
+			]],
+			["ceramic",[
+				["feet/boots2/thin/",15]
+			]],
+			["brass",[
+				["feet/boots2/thin/",15]
+			]],
+			["copper",[
+				["feet/boots2/thin/",15]
+			]],
+			["bronze",[
+				["feet/boots2/thin/",15]
+			]],
+			["silver",[
+				["feet/boots2/thin/",15]
+			]],
+			["gold",[
+				["feet/boots2/thin/",15]
 			]]
 		],
 		"Fold Boots": [
@@ -20408,6 +21302,104 @@
 			]],
 			["yellow",[
 				["feet/shoes/female/",15]
+			]]
+		],
+		"Shoes 2": [
+			["black",[
+				["feet/shoes2/thin/",15]
+			]],
+			["blue",[
+				["feet/shoes2/thin/",15]
+			]],
+			["bluegray",[
+				["feet/shoes2/thin/",15]
+			]],
+			["brown",[
+				["feet/shoes2/thin/",15]
+			]],
+			["charcoal",[
+				["feet/shoes2/thin/",15]
+			]],
+			["forest",[
+				["feet/shoes2/thin/",15]
+			]],
+			["gray",[
+				["feet/shoes2/thin/",15]
+			]],
+			["green",[
+				["feet/shoes2/thin/",15]
+			]],
+			["lavender",[
+				["feet/shoes2/thin/",15]
+			]],
+			["leather",[
+				["feet/shoes2/thin/",15]
+			]],
+			["maroon",[
+				["feet/shoes2/thin/",15]
+			]],
+			["navy",[
+				["feet/shoes2/thin/",15]
+			]],
+			["orange",[
+				["feet/shoes2/thin/",15]
+			]],
+			["pink",[
+				["feet/shoes2/thin/",15]
+			]],
+			["purple",[
+				["feet/shoes2/thin/",15]
+			]],
+			["red",[
+				["feet/shoes2/thin/",15]
+			]],
+			["rose",[
+				["feet/shoes2/thin/",15]
+			]],
+			["sky",[
+				["feet/shoes2/thin/",15]
+			]],
+			["slate",[
+				["feet/shoes2/thin/",15]
+			]],
+			["tan",[
+				["feet/shoes2/thin/",15]
+			]],
+			["teal",[
+				["feet/shoes2/thin/",15]
+			]],
+			["walnut",[
+				["feet/shoes2/thin/",15]
+			]],
+			["white",[
+				["feet/shoes2/thin/",15]
+			]],
+			["yellow",[
+				["feet/shoes2/thin/",15]
+			]],
+			["steel",[
+				["feet/shoes2/thin/",15]
+			]],
+			["iron",[
+				["feet/shoes2/thin/",15]
+			]],
+			["ceramic",[
+				["feet/shoes2/thin/",15]
+			]],
+			["brass",[
+				["feet/shoes2/thin/",15]
+			]],
+			["copper",[
+				["feet/shoes2/thin/",15]
+			]],
+			["bronze",[
+				["feet/shoes2/thin/",15]
+			]],
+			["silver",[
+				["feet/shoes2/thin/",15]
+			]],
+			["gold",[
+				["feet/shoes2/thin/",15]
 			]]
 		],
 		"Hoofs": [
