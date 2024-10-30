@@ -14480,167 +14480,167 @@
 	"hairextl": {
 		"Left Braid": [
 			["blonde",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["ash",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["sandy",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["platinum",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["strawberry",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["redhead",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["ginger",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["carrot",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["chestnut",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["black",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["raven",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["gray",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["white",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["red",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["orange",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["gold",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["green",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["blue",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["navy",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["violet",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["purple",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["pink",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]],
 			["rose",[
-				["hair/extensions/braidl/adult/",121]
+				["hair/extensions/braidl/adult/",128]
 			]]
 		],
 		"Left XLong Braid": [
 			["blonde",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["ash",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["sandy",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["platinum",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["strawberry",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["redhead",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["ginger",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["carrot",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["chestnut",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["black",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["raven",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["gray",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["white",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["red",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["orange",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["gold",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["green",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["blue",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["navy",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["violet",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["purple",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["pink",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]],
 			["rose",[
-				["hair/extensions/xlong_braidl/adult_front/",128],
-				["hair/extensions/xlong_braidl/adult_back/",8.9]
+				["hair/extensions/xlong_braidl/adult/fg/",128],
+				["hair/extensions/xlong_braidl/adult/bg/",9]
 			]]
 		],
 		"Left XLong Bang": [
@@ -14718,167 +14718,167 @@
 	"hairextr": {
 		"Right Braid": [
 			["blonde",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["ash",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["sandy",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["platinum",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["strawberry",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["redhead",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["ginger",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["carrot",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["chestnut",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["black",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["raven",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["gray",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["white",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["red",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["orange",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["gold",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["green",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["blue",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["navy",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["violet",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["purple",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["pink",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]],
 			["rose",[
-				["hair/extensions/braidr/adult/",121]
+				["hair/extensions/braidr/adult/",128]
 			]]
 		],
 		"Right XLong Braid": [
 			["blonde",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["ash",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["sandy",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["platinum",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["strawberry",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["redhead",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["ginger",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["carrot",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["chestnut",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["black",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["raven",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["gray",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["white",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["red",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["orange",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["gold",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["green",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["blue",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["navy",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["violet",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["purple",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["pink",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]],
 			["rose",[
-				["hair/extensions/xlong_braidr/adult_front/",128],
-				["hair/extensions/xlong_braidr/adult_back/",9]
+				["hair/extensions/xlong_braidr/adult/fg/",128],
+				["hair/extensions/xlong_braidr/adult/bg/",9]
 			]]
 		],
 		"Right XLong Bang": [
