@@ -38,7 +38,8 @@ size_flags_horizontal = 3
 size_flags_vertical = 3
 
 [node name="SpriteParts" type="Node2D" parent="CanvasLayer/GridContainer/Control"]
-position = Vector2(96, 96)
+position = Vector2(96, 296)
+scale = Vector2(8, 8)
 script = ExtResource("2_8om1h")
 DefaultAnimation = 10
 metadata/_edit_group_ = true

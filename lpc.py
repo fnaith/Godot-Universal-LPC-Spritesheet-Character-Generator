@@ -2,11 +2,9 @@ from os import walk, makedirs
 from os.path import join, exists
 from json import loads, dumps
 import shutil
-from uuid import uuid1
 from itertools import groupby
 from operator import itemgetter
 
-import base36
 import jsbeautifier
 
 
@@ -20,7 +18,7 @@ COPY_DIR = './spritesheets/'
 
 BODY_TYPES = ["male", "muscular", "female", "pregnant", "teen", "child"]
 
-LPC_SPRITE_SHEET_TEMPLATE = '''[gd_resource type="Resource" script_class="LPCSpriteSheet" load_steps=3 format=3 uid="uid://%s"]
+SPRITESHEET_TRES_TEMPLATE = '''[gd_resource type="Resource" script_class="LPCSpriteSheet" load_steps=3 format=3 uid="uid://%s"]
 
 [ext_resource type="Script" path="res://addons/LPCAnimatedSprite/LPCSpriteSheet.gd" id="1"]
 [ext_resource type="Texture2D" uid="uid://%s" path="res://spritesheets/%s" id="2"]
@@ -29,11 +27,8 @@ LPC_SPRITE_SHEET_TEMPLATE = '''[gd_resource type="Resource" script_class="LPCSpr
 script = ExtResource("1")
 SpriteSheet = ExtResource("2")
 Name = "%s"
-SpriteType = 0'''
-
-LPC_SPRITE_SHEET_PRELOAD_TEMPLATE = 'static var %s: LPCSpriteSheet = "res://spritesheets/%s"'
-
-
+SpriteType = 0
+'''
 
 
 
@@ -201,10 +196,10 @@ def generate_spritesheet_tres(spritesheet_list):
           if line.startswith('uid='):
             texture_uid = line[11:-1]
             break
-        new_uid = uuid1().int & 0x7FFFFFFFFFFFFFFF
-        lpc_sprite_sheet = LPC_SPRITE_SHEET_TEMPLATE % (new_uid, texture_uid, file_path, file_name)
+        new_uid = texture_uid + 't'
+        sprite_tres = SPRITESHEET_TRES_TEMPLATE % (new_uid, texture_uid, file_path, file_name)
         with open(tres_path, 'w', encoding='utf-8') as f:
-          f.write(lpc_sprite_sheet)
+          f.write(sprite_tres)
 
 def generate_spritesheet_json(spritesheet_list):
   body_to_type_to_name_to_spritesheets = {}
@@ -296,18 +291,22 @@ def generate_spritesheet_json(spritesheet_list):
     'horns': ['Backwards Horns', 'Curled Horns'],
     'fins': ['Fin', 'Short fin'],
     'bandana': ['Bandana', 'Skull Bandana', 'Mail'],
-    'headcover': ['Kerchief', 'Tied headband', 'Thick Headband'],
+    'headcover': ['Kerchief', 'Thick Headband', 'Tied Headband'],
     'headcover_rune': ['Thick Headband Rune'],
-    'hat': ['Formal', 'Reptile', 'Magic', 'Cloth',\
+    'hat': ['Formal', 'Reptile', 'Magic',
       # Helmets
-      'Armet', 'Simple Armet', 'Barbarian', 'Barbarian nasal', 'Barbarian Viking', 'Barbuta', 'Simple barbuta', 'Bascinet', 'Pigface bascinet', 'Pigface bascinet raised', 'Round bascinet', 'Round bascinet raised', 'Close helm', 'Flattop', 'Greathelm', 'Horned helmet', 'Kettle helm', 'Legion', 'Maximus', 'Morion', 'Nasal helm', 'Norman helm', 'Pointed helm', 'Spangenhelm', 'Viking spangenhelm', 'Sugarloaf greathelm', 'Simple sugarloaf helm', 'Xeon helmet',\
+      'Armet', 'Simple Armet', 'Barbarian', 'Barbarian nasal', 'Barbarian Viking', 'Barbuta', 'Simple barbuta', 'Bascinet', 'Pigface bascinet', 'Pigface bascinet raised', 'Round bascinet', 'Round bascinet raised', 'Close helm', 'Flattop', 'Greathelm', 'Horned helmet', 'Kettle helm', 'Legion', 'Maximus', 'Morion', 'Nasal helm', 'Norman helm', 'Pointed helm', 'Spangenhelm', 'Viking spangenhelm', 'Sugarloaf greathelm', 'Simple sugarloaf helm', 'Xeon helmet',
       # Pirate hats'
-      'Bonnie', 'Bonnie feather', 'Cavalier', 'Cavalier feather', 'Tricorne', 'Tricorne stitched', 'Tricorne thatch', 'Tricorne pirate captain', 'Tricorne lieutenant', 'Tricorne captain', 'Bicorne athwart', 'Bicorne athwart pirate', 'Bicorne athwart admiral', 'Bicorne athwart admiral with cockade', 'Bicorne athwart commodore', 'Bicorne foreaft', 'Bicorne foreaft commodore',\
+      'Bonnie', 'Bonnie feather', 'Cavalier', 'Cavalier feather', 'Tricorne', 'Tricorne stitched', 'Tricorne thatch', 'Tricorne pirate captain', 'Tricorne lieutenant', 'Tricorne captain', 'Bicorne athwart', 'Bicorne athwart pirate', 'Bicorne athwart admiral', 'Bicorne athwart admiral with cockade', 'Bicorne athwart commodore', 'Bicorne foreaft', 'Bicorne foreaft commodore',
       # Crowns
-      'Crown', 'Tiara',\
+      'Crown', 'Tiara',
+      # Bandana
+      'Bandana', 'Bordered Bandana',
       # Special'
-      'Santa', 'Elf'
+      'Santa',
+      'Feather Cap', 'Hijab', 'Christmas Elf'
     ],
+    'hat_accessory': ['Feather Alt Colors'],
     'hairtie': ['Hair Tie'],
     'hairtie_rune': ['Hair Tie Rune'],
     'hairextl': ['Left Braid', 'Left XLong Braid', 'Left XLong Bang'],
@@ -493,7 +492,8 @@ print(len(sheet_definitions))
 print(len(valid_sheet_definitions))
 spritesheet_list = list_spritesheet(valid_sheet_definitions)
 print(len(spritesheet_list))
-# stat_spritesheet_list(spritesheet_list)
+stat_spritesheet_list(spritesheet_list)
+
 # copy_spritesheet(spritesheet_list)
 # generate_spritesheet_tres(spritesheet_list)
 generate_spritesheet_json(spritesheet_list)

@@ -13636,228 +13636,228 @@
 				["hat/pirate/kerchief/female/",125]
 			]]
 		],
-		"Tied headband": [
-			["black",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["blue",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["bluegray",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["brown",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["charcoal",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["forest",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["gray",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["green",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["lavender",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["leather",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["maroon",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["navy",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["orange",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["pink",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["purple",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["red",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["rose",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["sky",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["slate",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["tan",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["teal",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["walnut",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["white",[
-				["hat/head_band_tied/female/",125]
-			]],
-			["yellow",[
-				["hat/head_band_tied/female/",125]
-			]]
-		],
 		"Thick Headband": [
 			["black",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["blue",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["bluegray",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["brown",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["charcoal",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["forest",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["gray",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["green",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["lavender",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["leather",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["maroon",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["navy",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["orange",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["pink",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["purple",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["red",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["rose",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["sky",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["slate",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["tan",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["teal",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["walnut",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["white",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
 			]],
 			["yellow",[
-				["hat/head_band_thick/adult/",125]
+				["hat/headband/thick/adult/",125]
+			]]
+		],
+		"Tied Headband": [
+			["black",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["blue",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["bluegray",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["brown",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["charcoal",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["forest",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["gray",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["green",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["lavender",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["leather",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["maroon",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["navy",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["orange",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["pink",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["purple",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["red",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["rose",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["sky",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["slate",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["tan",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["teal",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["walnut",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["white",[
+				["hat/headband/tied/adult/",125]
+			]],
+			["yellow",[
+				["hat/headband/tied/adult/",125]
 			]]
 		]
 	},
 	"headcover_rune": {
 		"Thick Headband Rune": [
 			["black",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["blue",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["bluegray",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["brown",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["charcoal",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["forest",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["gray",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["green",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["lavender",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["leather",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["maroon",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["navy",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["orange",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["pink",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["purple",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["red",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["rose",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["sky",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["slate",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["tan",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["teal",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["walnut",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["white",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]],
 			["yellow",[
-				["hat/head_band_thick/rune/adult/",126]
+				["hat/headband/thick/rune/adult/",126]
 			]]
 		]
 	},
@@ -13899,14 +13899,6 @@
 			]],
 			["moon",[
 				["hat/magic/male/",130]
-			]]
-		],
-		"Cloth": [
-			["hijab",[
-				["hat/cloth/male/",130]
-			]],
-			["leather",[
-				["hat/cloth/male/",130]
 			]]
 		],
 		"Armet": [
@@ -16739,34 +16731,392 @@
 			]]
 		],
 		"Crown": [
-			["1",[
-				["hat/crown/",130]
+			["crown_gold",[
+				["hat/crown/crown/adult/",130]
 			]],
-			["2",[
-				["hat/crown/",130]
+			["crown_red",[
+				["hat/crown/crown/adult/",130]
 			]],
-			["3",[
-				["hat/crown/",130]
+			["crown_blue",[
+				["hat/crown/crown/adult/",130]
 			]],
-			["4",[
-				["hat/crown/",130]
+			["crown_gray",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["black",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["blue",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["bluegray",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["brown",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["charcoal",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["forest",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["gray",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["green",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["lavender",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["leather",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["maroon",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["navy",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["orange",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["pink",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["purple",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["red",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["rose",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["sky",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["slate",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["tan",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["teal",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["walnut",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["white",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["yellow",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["steel",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["iron",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["ceramic",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["brass",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["copper",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["bronze",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["silver",[
+				["hat/crown/crown/adult/",130]
+			]],
+			["gold",[
+				["hat/crown/crown/adult/",130]
 			]]
 		],
 		"Tiara": [
-			["bronze",[
-				["hat/tiara/female/",130]
+			["tiara_bronze",[
+				["hat/crown/tiara/adult/",130]
 			]],
-			["gold",[
-				["hat/tiara/female/",130]
+			["tiara_gold",[
+				["hat/crown/tiara/adult/",130]
 			]],
-			["iron",[
-				["hat/tiara/female/",130]
+			["tiara_iron",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["tiara_purple",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["tiara_silver",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["black",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["blue",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["bluegray",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["brown",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["charcoal",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["forest",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["gray",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["green",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["lavender",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["leather",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["maroon",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["navy",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["orange",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["pink",[
+				["hat/crown/tiara/adult/",130]
 			]],
 			["purple",[
-				["hat/tiara/female/",130]
+				["hat/crown/tiara/adult/",130]
+			]],
+			["red",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["rose",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["sky",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["slate",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["tan",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["teal",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["walnut",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["white",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["yellow",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["steel",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["iron",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["ceramic",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["brass",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["copper",[
+				["hat/crown/tiara/adult/",130]
+			]],
+			["bronze",[
+				["hat/crown/tiara/adult/",130]
 			]],
 			["silver",[
-				["hat/tiara/female/",130]
+				["hat/crown/tiara/adult/",130]
+			]],
+			["gold",[
+				["hat/crown/tiara/adult/",130]
+			]]
+		],
+		"Bandana": [
+			["bandana_gray",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["bandana_red",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["bandana_white",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["black",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["blue",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["bluegray",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["brown",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["charcoal",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["forest",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["gray",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["green",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["lavender",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["leather",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["maroon",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["navy",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["orange",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["pink",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["purple",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["red",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["rose",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["sky",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["slate",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["tan",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["teal",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["walnut",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["white",[
+				["hat/cloth/bandana/adult/",130]
+			]],
+			["yellow",[
+				["hat/cloth/bandana/adult/",130]
+			]]
+		],
+		"Bordered Bandana": [
+			["bandana_gray",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["bandana_red",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["bandana_white",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["black",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["blue",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["bluegray",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["brown",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["charcoal",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["forest",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["gray",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["green",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["lavender",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["leather",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["maroon",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["navy",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["orange",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["pink",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["purple",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["red",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["rose",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["sky",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["slate",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["tan",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["teal",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["walnut",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["white",[
+				["hat/cloth/bandana2/adult/",130]
+			]],
+			["yellow",[
+				["hat/cloth/bandana2/adult/",130]
 			]]
 		],
 		"Santa": [
@@ -16843,7 +17193,158 @@
 				["hat/santa/male/",130]
 			]]
 		],
-		"Elf": [
+		"Feather Cap": [
+			["black",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["blue",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["bluegray",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["brown",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["charcoal",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["forest",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["gray",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["green",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["lavender",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["leather",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["maroon",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["navy",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["orange",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["pink",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["purple",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["red",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["rose",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["sky",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["slate",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["tan",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["teal",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["walnut",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["white",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
+			["yellow",[
+				["hat/cloth/feather_cap/adult/",130]
+			]]
+		],
+		"Hijab": [
+			["base",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["black",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["blue",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["bluegray",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["brown",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["charcoal",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["forest",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["gray",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["green",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["lavender",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["leather",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["maroon",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["navy",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["orange",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["pink",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["purple",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["red",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["rose",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["sky",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["slate",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["tan",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["teal",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["walnut",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["white",[
+				["hat/cloth/hijab/thin/",130]
+			]],
+			["yellow",[
+				["hat/cloth/hijab/thin/",130]
+			]]
+		],
+		"Christmas Elf": [
 			["forest_maroon",[
 				["hat/elf/male/",130]
 			]],
@@ -17068,155 +17569,231 @@
 			]]
 		]
 	},
+	"hat_accessory": {
+		"Feather Alt Colors": [
+			["black",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["blue",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["bluegray",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["brown",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["charcoal",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["forest",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["gray",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["green",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["lavender",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["leather",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["maroon",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["navy",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["orange",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["pink",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["purple",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["red",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["rose",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["sky",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["slate",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["tan",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["teal",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["walnut",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["white",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]],
+			["yellow",[
+				["hat/cloth/feather_cap/alt/adult/",131]
+			]]
+		]
+	},
 	"hairtie": {
 		"Hair Tie": [
 			["black",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["blue",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["bluegray",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["brown",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["charcoal",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["forest",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["gray",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["green",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["lavender",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["leather",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["maroon",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["navy",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["orange",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["pink",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["purple",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["red",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["rose",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["sky",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["slate",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["tan",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["teal",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["walnut",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["white",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]],
 			["yellow",[
-				["hat/hair_tie/adult/",125]
+				["hat/headband/hairtie/adult/",125]
 			]]
 		]
 	},
 	"hairtie_rune": {
 		"Hair Tie Rune": [
 			["black",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["blue",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["bluegray",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["brown",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["charcoal",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["forest",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["gray",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["green",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["lavender",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["leather",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["maroon",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["navy",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["orange",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["pink",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["purple",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["red",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["rose",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["sky",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["slate",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["tan",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["teal",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["walnut",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["white",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]],
 			["yellow",[
-				["hat/hair_tie/rune/adult/",126]
+				["hat/headband/hairtie/rune/adult/",126]
 			]]
 		]
 	},
