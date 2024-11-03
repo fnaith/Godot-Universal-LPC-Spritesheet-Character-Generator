@@ -14840,6 +14840,9 @@
 			]]
 		],
 		"Feather Cap": [
+			["base",[
+				["hat/cloth/feather_cap/adult/",130]
+			]],
 			["black",[
 				["hat/cloth/feather_cap/adult/",130]
 			]],
@@ -15922,236 +15925,236 @@
 	"visor": {
 		"Grated visor": [
 			["steel",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/grated/male/",132]
+				["hat/visor/grated/adult/",132]
 			]]
 		],
 		"Narrow grated visor": [
 			["steel",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/grated_narrow/male/",132]
+				["hat/visor/grated_narrow/adult/",132]
 			]]
 		],
 		"Horned visor": [
 			["steel",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/horned/male/",132]
+				["hat/visor/horned/adult/",132]
 			]]
 		],
 		"Pigface visor": [
 			["steel",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/pigface/male/",132]
+				["hat/visor/pigface/adult/",132]
 			]]
 		],
 		"Pigface visor raised": [
 			["steel",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/pigface_raised/male/",132]
+				["hat/visor/pigface_raised/adult/",132]
 			]]
 		],
 		"Round visor": [
 			["steel",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/round/male/",132]
+				["hat/visor/round/adult/",132]
 			]]
 		],
 		"Round visor raised": [
 			["steel",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/round_raised/male/",132]
+				["hat/visor/round_raised/adult/",132]
 			]]
 		],
 		"Slit visor": [
 			["steel",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]]
 		],
 		"Narrow slit visor": [
 			["steel",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["iron",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["ceramic",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["brass",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["copper",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["bronze",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["silver",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]],
 			["gold",[
-				["hat/visor/slit/male/",132]
+				["hat/visor/slit/adult/",132]
 			]]
 		]
 	},
