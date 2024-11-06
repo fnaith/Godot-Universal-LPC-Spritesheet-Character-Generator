@@ -23490,28 +23490,28 @@
 	"armour": {
 		"Plate": [
 			["steel",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["iron",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["ceramic",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["brass",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["copper",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["bronze",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["silver",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]],
 			["gold",[
-				["torso/armour/plate/male/",60]
+				["torso/armour/plate/teen/",60]
 			]]
 		],
 		"Leather": [
