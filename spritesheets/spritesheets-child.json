@@ -4047,263 +4047,146 @@
 		]
 	},
 	"hair": {
+		"Jewfro": [
+			["blonde",[
+				["hair/jewfro/child/",120]
+			]],
+			["ash",[
+				["hair/jewfro/child/",120]
+			]],
+			["sandy",[
+				["hair/jewfro/child/",120]
+			]],
+			["platinum",[
+				["hair/jewfro/child/",120]
+			]],
+			["strawberry",[
+				["hair/jewfro/child/",120]
+			]],
+			["redhead",[
+				["hair/jewfro/child/",120]
+			]],
+			["ginger",[
+				["hair/jewfro/child/",120]
+			]],
+			["carrot",[
+				["hair/jewfro/child/",120]
+			]],
+			["chestnut",[
+				["hair/jewfro/child/",120]
+			]],
+			["black",[
+				["hair/jewfro/child/",120]
+			]],
+			["raven",[
+				["hair/jewfro/child/",120]
+			]],
+			["gray",[
+				["hair/jewfro/child/",120]
+			]],
+			["white",[
+				["hair/jewfro/child/",120]
+			]],
+			["red",[
+				["hair/jewfro/child/",120]
+			]],
+			["orange",[
+				["hair/jewfro/child/",120]
+			]],
+			["gold",[
+				["hair/jewfro/child/",120]
+			]],
+			["green",[
+				["hair/jewfro/child/",120]
+			]],
+			["blue",[
+				["hair/jewfro/child/",120]
+			]],
+			["navy",[
+				["hair/jewfro/child/",120]
+			]],
+			["violet",[
+				["hair/jewfro/child/",120]
+			]],
+			["purple",[
+				["hair/jewfro/child/",120]
+			]],
+			["pink",[
+				["hair/jewfro/child/",120]
+			]],
+			["rose",[
+				["hair/jewfro/child/",120]
+			]]
+		],
 		"Side Swoop": [
 			["blonde",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["ash",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["sandy",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["platinum",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["strawberry",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["redhead",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["ginger",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["carrot",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["chestnut",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["black",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["raven",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["gray",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["white",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["red",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["orange",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["gold",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["green",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["blue",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["navy",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["violet",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["purple",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["pink",[
-				["hair/sideswoop/child/",120]
+				["hair/swoop_side/child/",120]
 			]],
 			["rose",[
-				["hair/sideswoop/child/",120]
-			]]
-		],
-		"Tied Back": [
-			["blonde",[
-				["hair/tied_back/child/",120]
-			]],
-			["ash",[
-				["hair/tied_back/child/",120]
-			]],
-			["sandy",[
-				["hair/tied_back/child/",120]
-			]],
-			["platinum",[
-				["hair/tied_back/child/",120]
-			]],
-			["strawberry",[
-				["hair/tied_back/child/",120]
-			]],
-			["redhead",[
-				["hair/tied_back/child/",120]
-			]],
-			["ginger",[
-				["hair/tied_back/child/",120]
-			]],
-			["carrot",[
-				["hair/tied_back/child/",120]
-			]],
-			["chestnut",[
-				["hair/tied_back/child/",120]
-			]],
-			["black",[
-				["hair/tied_back/child/",120]
-			]],
-			["raven",[
-				["hair/tied_back/child/",120]
-			]],
-			["gray",[
-				["hair/tied_back/child/",120]
-			]],
-			["white",[
-				["hair/tied_back/child/",120]
-			]],
-			["red",[
-				["hair/tied_back/child/",120]
-			]],
-			["orange",[
-				["hair/tied_back/child/",120]
-			]],
-			["gold",[
-				["hair/tied_back/child/",120]
-			]],
-			["green",[
-				["hair/tied_back/child/",120]
-			]],
-			["blue",[
-				["hair/tied_back/child/",120]
-			]],
-			["navy",[
-				["hair/tied_back/child/",120]
-			]],
-			["violet",[
-				["hair/tied_back/child/",120]
-			]],
-			["purple",[
-				["hair/tied_back/child/",120]
-			]],
-			["pink",[
-				["hair/tied_back/child/",120]
-			]],
-			["rose",[
-				["hair/tied_back/child/",120]
-			]]
-		],
-		"XLong Ponytail": [
-			["blonde",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["ash",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["sandy",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["platinum",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["strawberry",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["redhead",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["ginger",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["carrot",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["chestnut",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["black",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["raven",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["gray",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["white",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["red",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["orange",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["gold",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["green",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["blue",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["navy",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["violet",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["purple",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["pink",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
-			]],
-			["rose",[
-				["hair/xlong_ponytail/child/mg/",120],
-				["hair/xlong_ponytail/child/bg/",9],
-				["hair/xlong_ponytail/child/fg/",145]
+				["hair/swoop_side/child/",120]
 			]]
 		],
 		"Wavy": [
@@ -4434,6 +4317,783 @@
 			]],
 			["whitecyan",[
 				["hair/messy/child/",120]
+			]]
+		],
+		"Relm w/Ponytail": [
+			["blonde",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["ash",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["sandy",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["platinum",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["strawberry",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["redhead",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["ginger",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["carrot",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["chestnut",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["black",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["raven",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["gray",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["white",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["red",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["orange",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["gold",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["green",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["blue",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["navy",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["violet",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["purple",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["pink",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]],
+			["rose",[
+				["hair/relm_ponytail/child/mg/",120],
+				["hair/relm_ponytail/child/bg/",9],
+				["hair/relm_ponytail/child/fg/",145]
+			]]
+		],
+		"Relm Short": [
+			["blonde",[
+				["hair/relm_short/child/",120]
+			]],
+			["ash",[
+				["hair/relm_short/child/",120]
+			]],
+			["sandy",[
+				["hair/relm_short/child/",120]
+			]],
+			["platinum",[
+				["hair/relm_short/child/",120]
+			]],
+			["strawberry",[
+				["hair/relm_short/child/",120]
+			]],
+			["redhead",[
+				["hair/relm_short/child/",120]
+			]],
+			["ginger",[
+				["hair/relm_short/child/",120]
+			]],
+			["carrot",[
+				["hair/relm_short/child/",120]
+			]],
+			["chestnut",[
+				["hair/relm_short/child/",120]
+			]],
+			["black",[
+				["hair/relm_short/child/",120]
+			]],
+			["raven",[
+				["hair/relm_short/child/",120]
+			]],
+			["gray",[
+				["hair/relm_short/child/",120]
+			]],
+			["white",[
+				["hair/relm_short/child/",120]
+			]],
+			["red",[
+				["hair/relm_short/child/",120]
+			]],
+			["orange",[
+				["hair/relm_short/child/",120]
+			]],
+			["gold",[
+				["hair/relm_short/child/",120]
+			]],
+			["green",[
+				["hair/relm_short/child/",120]
+			]],
+			["blue",[
+				["hair/relm_short/child/",120]
+			]],
+			["navy",[
+				["hair/relm_short/child/",120]
+			]],
+			["violet",[
+				["hair/relm_short/child/",120]
+			]],
+			["purple",[
+				["hair/relm_short/child/",120]
+			]],
+			["pink",[
+				["hair/relm_short/child/",120]
+			]],
+			["rose",[
+				["hair/relm_short/child/",120]
+			]]
+		],
+		"Long Topknot": [
+			["blonde",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["ash",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["sandy",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["platinum",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["strawberry",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["redhead",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["ginger",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["carrot",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["chestnut",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["black",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["raven",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["gray",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["white",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["red",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["orange",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["gold",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["green",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["blue",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["navy",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["violet",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["purple",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["pink",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["rose",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]]
+		],
+		"Long Topknot 2": [
+			["blonde",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["ash",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["sandy",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["platinum",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["strawberry",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["redhead",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["ginger",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["carrot",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["chestnut",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["black",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["raven",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["gray",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["white",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["red",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["orange",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["gold",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["green",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["blue",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["navy",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["violet",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["purple",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["pink",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]],
+			["rose",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9],
+				["hair/extensions/ponytails/topknot_long/child/fg/",145]
+			]]
+		],
+		"Short Topknot": [
+			["blonde",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["ash",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["sandy",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["platinum",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["strawberry",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["redhead",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["ginger",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["carrot",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["chestnut",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["black",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["raven",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["gray",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["white",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["red",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["orange",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["gold",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["green",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["blue",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["navy",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["violet",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["purple",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["pink",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["rose",[
+				["hair/parted_side_bangs/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]]
+		],
+		"Short Topknot 2": [
+			["blonde",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["ash",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["sandy",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["platinum",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["strawberry",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["redhead",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["ginger",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["carrot",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["chestnut",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["black",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["raven",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["gray",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["white",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["red",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["orange",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["gold",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["green",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["blue",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["navy",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["violet",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["purple",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["pink",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]],
+			["rose",[
+				["hair/parted_side_bangs2/child/",120],
+				["hair/extensions/ponytails/topknot_short/child/",145]
+			]]
+		]
+	},
+	"ponytail": {
+		"Long Topknot": [
+			["blonde",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["ash",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["sandy",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["platinum",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["strawberry",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["redhead",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["ginger",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["carrot",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["chestnut",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["black",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["raven",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["gray",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["white",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["red",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["orange",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["gold",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["green",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["blue",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["navy",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["violet",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["purple",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["pink",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]],
+			["rose",[
+				["hair/extensions/ponytails/topknot_long/child/fg/",128],
+				["hair/extensions/ponytails/topknot_long/child/bg/",9]
+			]]
+		],
+		"Short Topknot": [
+			["blonde",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["ash",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["sandy",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["platinum",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["strawberry",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["redhead",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["ginger",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["carrot",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["chestnut",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["black",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["raven",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["gray",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["white",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["red",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["orange",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["gold",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["green",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["blue",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["navy",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["violet",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["purple",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["pink",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
+			]],
+			["rose",[
+				["hair/extensions/ponytails/topknot_short/child/",128]
 			]]
 		]
 	},
@@ -5260,476 +5920,476 @@
 	"hairextl": {
 		"Left Braid": [
 			["blonde",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["ash",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["sandy",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["platinum",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["strawberry",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["redhead",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["ginger",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["carrot",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["chestnut",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["black",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["raven",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["gray",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["white",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["red",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["orange",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["gold",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["green",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["blue",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["navy",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["violet",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["purple",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["pink",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]],
 			["rose",[
-				["hair/extensions/braidl/child/",128]
+				["hair/extensions/bangs/braidl/child/",128]
 			]]
 		],
 		"Left XLong Braid": [
 			["blonde",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["ash",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["sandy",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["platinum",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["strawberry",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["redhead",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["ginger",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["carrot",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["chestnut",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["black",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["raven",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["gray",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["white",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["red",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["orange",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["gold",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["green",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["blue",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["navy",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["violet",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["purple",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["pink",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]],
 			["rose",[
-				["hair/extensions/xlong_braidl/child/fg/",128],
-				["hair/extensions/xlong_braidl/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidl/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidl/child/bg/",9]
 			]]
 		],
 		"Left XLong Bang": [
 			["blonde",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["ash",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["sandy",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["platinum",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["strawberry",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["redhead",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["ginger",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["carrot",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["chestnut",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["black",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["raven",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["gray",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["white",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["red",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["orange",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["gold",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["green",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["blue",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["navy",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["violet",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["purple",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["pink",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]],
 			["rose",[
-				["hair/extensions/xlong_bangl/child/",128]
+				["hair/extensions/bangs/xlong_bangl/child/",128]
 			]]
 		]
 	},
 	"hairextr": {
 		"Right Braid": [
 			["blonde",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["ash",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["sandy",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["platinum",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["strawberry",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["redhead",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["ginger",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["carrot",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["chestnut",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["black",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["raven",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["gray",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["white",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["red",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["orange",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["gold",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["green",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["blue",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["navy",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["violet",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["purple",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["pink",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]],
 			["rose",[
-				["hair/extensions/braidr/child/",128]
+				["hair/extensions/bangs/braidr/child/",128]
 			]]
 		],
 		"Right XLong Braid": [
 			["blonde",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["ash",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["sandy",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["platinum",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["strawberry",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["redhead",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["ginger",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["carrot",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["chestnut",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["black",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["raven",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["gray",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["white",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["red",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["orange",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["gold",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["green",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["blue",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["navy",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["violet",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["purple",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["pink",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]],
 			["rose",[
-				["hair/extensions/xlong_braidr/child/fg/",128],
-				["hair/extensions/xlong_braidr/child/bg/",9]
+				["hair/extensions/bangs/xlong_braidr/child/fg/",128],
+				["hair/extensions/bangs/xlong_braidr/child/bg/",9]
 			]]
 		],
 		"Right XLong Bang": [
 			["blonde",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["ash",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["sandy",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["platinum",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["strawberry",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["redhead",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["ginger",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["carrot",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["chestnut",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["black",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["raven",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["gray",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["white",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["red",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["orange",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["gold",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["green",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["blue",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["navy",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["violet",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["purple",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["pink",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]],
 			["rose",[
-				["hair/extensions/xlong_bangr/child/",128]
+				["hair/extensions/bangs/xlong_bangr/child/",128]
 			]]
 		]
 	},

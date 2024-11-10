@@ -272,7 +272,7 @@ def generate_spritesheet_json(spritesheet_list):
       # bald/shaved
       'Balding', 'Longhawk', 'Shorthawk', 'High and tight', 'Buzzcut',\
       # short
-      'Plain', 'Pixie', 'Page', 'Idol', 'Mop', 'Parted', 'Parted2', 'Part2', 'Messy2', 'Messy3', 'Messy1', 'Bedhead', 'Unkempt', 'Bangsshort', 'Swoop', 'Side Swoop', 'Curtains', 'Page2', 'Bangs', 'Single', 'Cowlick', 'Cowlick tall', 'Tied Back',\
+      'Plain', 'Pixie', 'Page', 'Idol', 'Mop', 'Parted', 'Messy2', 'Messy3', 'Messy1', 'Bedhead', 'Unkempt', 'Bangsshort', 'Swoop', 'Side Swoop', 'Curtains', 'Page2', 'Bangs', 'Single', 'Cowlick', 'Cowlick tall',\
       # spiky
       'Spiked porcupine', 'Spiked liberty2', 'Spiked liberty', 'Spiked beehive', 'Spiked', 'Spiked2', 'Halfmessy',\
       # pigtails
@@ -280,14 +280,17 @@ def generate_spritesheet_json(spritesheet_list):
       # bob
       'Bob', 'Lob', 'Bob side part',\
       # braids, ponytails, updos
-      'Half up', 'Bangs bun', 'Shortknot', 'Longknot', 'Ponytail', 'Ponytail2', 'High ponytail', 'Braid', 'Braid2', 'Shoulderl', 'Shoulderr', 'Long tied', 'XLong Ponytail',\
+      'Half up', 'Bangs bun', 'Ponytail', 'Ponytail2', 'High ponytail', 'Braid', 'Braid2', 'Shoulderl', 'Shoulderr', 'Long tied',\
       # long
       'Loose', 'Bangslong', 'Bangslong2', 'Long', 'Long messy', 'Long messy2', 'Curtains long', 'Wavy', 'Long center part', 'Long straight',\
       # very long
       'Princess', 'Sara', 'Long band', 'Xlong',
       # child
-      'Messed'
+      'Messed',
+      'Parted 2', 'Parted 3',
+      'Relm w/Ponytail', 'Relm Short', 'Long Topknot', 'Long Topknot 2', 'Short Topknot', 'Short Topknot 2'
     ],
+    'ponytail': ['Long Topknot', 'Short Topknot'],
     'horns': ['Backwards Horns', 'Curled Horns'],
     'fins': ['Fin', 'Short fin'],
     'bandana': ['Bandana', 'Skull Bandana', 'Mail'],
