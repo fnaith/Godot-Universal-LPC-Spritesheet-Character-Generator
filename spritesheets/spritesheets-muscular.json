@@ -13845,7 +13845,31 @@
 	},
 	"bandana": {
 		"Mail": [
+			["detailed",[
+				["hat/helmet/mail/adult/",125]
+			]],
 			["steel",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["iron",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["ceramic",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["brass",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["copper",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["bronze",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["silver",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["gold",[
 				["hat/helmet/mail/adult/",125]
 			]]
 		]

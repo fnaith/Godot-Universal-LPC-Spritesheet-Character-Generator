@@ -13855,7 +13855,31 @@
 	},
 	"bandana": {
 		"Mail": [
+			["detailed",[
+				["hat/helmet/mail/adult/",125]
+			]],
 			["steel",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["iron",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["ceramic",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["brass",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["copper",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["bronze",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["silver",[
+				["hat/helmet/mail/adult/",125]
+			]],
+			["gold",[
 				["hat/helmet/mail/adult/",125]
 			]]
 		]
@@ -24033,6 +24057,32 @@
 			]],
 			["yellow",[
 				["torso/armour/leather/male/",60]
+			]]
+		],
+		"Legion": [
+			["steel",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["iron",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["ceramic",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["brass",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["copper",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["bronze",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["silver",[
+				["torso/armour/legion/teen/",60]
+			]],
+			["gold",[
+				["torso/armour/legion/teen/",60]
 			]]
 		]
 	},
