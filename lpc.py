@@ -377,7 +377,7 @@ def generate_spritesheet_json(spritesheet_list):
     'belt': ['Leather Belt', 'Double Belt', 'Loose Belt', 'Belly belt', 'Other belts'],
     'sash': ['Obi', 'Sash', 'Narrow sash', 'Waistband'],
     'sash_obi': ['Obi Sash'],
-    'sash_tie': ['Obi Knot'],
+    'sash_tie': ['Obi Knot Left', 'Obi Knot Right'],
     # Legs
     'legs': [
       'Armour', 'Pants', 'Pants 2',\

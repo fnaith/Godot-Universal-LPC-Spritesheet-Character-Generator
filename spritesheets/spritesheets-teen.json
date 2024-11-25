@@ -24290,76 +24290,76 @@
 	"sash": {
 		"Obi": [
 			["black",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["blue",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["bluegray",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["brown",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["charcoal",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["forest",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["gray",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["green",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["lavender",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["leather",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["maroon",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["navy",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["orange",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["pink",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["purple",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["red",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["rose",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["sky",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["slate",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["tan",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["teal",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["walnut",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["white",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]],
 			["yellow",[
-				["torso/waist/obi/universal/male/",65]
+				["torso/waist/obi/thin/",65]
 			]]
 		],
 		"Sash": [
@@ -24662,78 +24662,152 @@
 		]
 	},
 	"sash_tie": {
-		"Obi Knot": [
+		"Obi Knot Left": [
 			["black",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["blue",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["bluegray",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["brown",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["charcoal",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["forest",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["gray",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["green",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["lavender",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["leather",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["maroon",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["navy",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["orange",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["pink",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["purple",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["red",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["rose",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["sky",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["slate",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["tan",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["teal",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["walnut",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["white",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
 			]],
 			["yellow",[
-				["torso/waist/obi_knot/universal/male/",66]
+				["torso/waist/obi/knot/left/thin/",66]
+			]]
+		],
+		"Obi Knot Right": [
+			["black",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["blue",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["bluegray",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["brown",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["charcoal",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["forest",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["gray",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["green",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["lavender",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["leather",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["maroon",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["navy",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["orange",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["pink",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["purple",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["red",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["rose",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["sky",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["slate",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["tan",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["teal",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["walnut",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["white",[
+				["torso/waist/obi/knot/right/thin/",66]
+			]],
+			["yellow",[
+				["torso/waist/obi/knot/right/thin/",66]
 			]]
 		]
 	},
@@ -25656,76 +25730,76 @@
 	"socks": {
 		"Tabi Socks": [
 			["black",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["blue",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["bluegray",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["brown",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["charcoal",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["forest",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["gray",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["green",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["lavender",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["leather",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["maroon",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["navy",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["orange",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["pink",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["purple",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["red",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["rose",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["sky",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["slate",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["tan",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["teal",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["walnut",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["white",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]],
 			["yellow",[
-				["feet/socks/tabi/universal/female/",14]
+				["feet/socks/tabi/thin/",14]
 			]]
 		],
 		"Ankle Socks": [
