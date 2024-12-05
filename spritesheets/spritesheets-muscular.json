@@ -13844,6 +13844,244 @@
 		]
 	},
 	"bandana": {
+		"Bandana": [
+			["bandana_gray",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["bandana_red",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["bandana_white",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["black",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["blue",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["bluegray",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["brown",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["charcoal",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["forest",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["gray",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["green",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["lavender",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["leather",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["maroon",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["navy",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["orange",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["pink",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["purple",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["red",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["rose",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["sky",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["slate",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["tan",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["teal",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["walnut",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["white",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["yellow",[
+				["hat/cloth/bandana/adult/",120]
+			]],
+			["black",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["blue",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["bluegray",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["brown",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["charcoal",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["forest",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["gray",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["green",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["lavender",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["leather",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["maroon",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["navy",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["orange",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["pink",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["purple",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["red",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["rose",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["sky",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["slate",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["tan",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["teal",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["walnut",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["white",[
+				["hat/pirate/bandana/adult/",120]
+			]],
+			["yellow",[
+				["hat/pirate/bandana/adult/",120]
+			]]
+		],
+		"Bordered Bandana": [
+			["bandana_gray",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["bandana_red",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["bandana_white",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["black",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["blue",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["bluegray",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["brown",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["charcoal",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["forest",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["gray",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["green",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["lavender",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["leather",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["maroon",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["navy",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["orange",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["pink",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["purple",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["red",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["rose",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["sky",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["slate",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["tan",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["teal",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["walnut",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["white",[
+				["hat/cloth/bandana2/adult/",120]
+			]],
+			["yellow",[
+				["hat/cloth/bandana2/adult/",120]
+			]]
+		],
 		"Mail": [
 			["detailed",[
 				["hat/helmet/mail/adult/",125]
@@ -13874,7 +14112,157 @@
 			]]
 		]
 	},
+	"bandana_overlay": {
+		"Skull Bandana Overlay": [
+			["white",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["black",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["blue",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["bluegray",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["brown",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["charcoal",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["forest",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["gray",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["green",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["lavender",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["leather",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["maroon",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["navy",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["orange",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["pink",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["purple",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["red",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["rose",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["sky",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["slate",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["tan",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["teal",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["walnut",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]],
+			["yellow",[
+				["hat/pirate/bandana/skull/adult/",121]
+			]]
+		]
+	},
 	"headcover": {
+		"Kerchief": [
+			["white",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["black",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["blue",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["bluegray",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["brown",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["charcoal",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["forest",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["gray",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["green",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["lavender",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["leather",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["maroon",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["navy",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["orange",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["pink",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["purple",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["red",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["rose",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["sky",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["slate",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["tan",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["teal",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["walnut",[
+				["hat/pirate/kerchief/adult/",125]
+			]],
+			["yellow",[
+				["hat/pirate/kerchief/adult/",125]
+			]]
+		],
 		"Thick Headband": [
 			["black",[
 				["hat/headband/thick/adult/",125]
@@ -14101,11 +14489,6 @@
 		]
 	},
 	"hat": {
-		"Reptile": [
-			["hood",[
-				["hat/reptile/male/",130]
-			]]
-		],
 		"Formal Bowler Hat": [
 			["base",[
 				["hat/formal/bowler/adult/",130]
@@ -15076,393 +15459,449 @@
 				["hat/helmet/xeon/adult/",130]
 			]]
 		],
-		"Crown": [
-			["crown_gold",[
-				["hat/crown/crown/adult/",130]
-			]],
-			["crown_red",[
-				["hat/crown/crown/adult/",130]
-			]],
-			["crown_blue",[
-				["hat/crown/crown/adult/",130]
-			]],
-			["crown_gray",[
-				["hat/crown/crown/adult/",130]
-			]],
+		"Bonnie": [
 			["black",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["blue",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["bluegray",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["brown",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["charcoal",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["forest",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["gray",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["green",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["lavender",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["leather",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["maroon",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["navy",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["orange",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["pink",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["purple",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["red",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["rose",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["sky",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["slate",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["tan",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["teal",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["walnut",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["white",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
 			]],
 			["yellow",[
-				["hat/crown/crown/adult/",130]
+				["hat/pirate/bonnie/adult/",130]
+			]]
+		],
+		"Bonnie Alt Tilt": [
+			["black",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["blue",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["bluegray",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["brown",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["charcoal",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["forest",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["gray",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["green",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["lavender",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["leather",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["maroon",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["navy",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["orange",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["pink",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["purple",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["red",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["rose",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["sky",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["slate",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["tan",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["teal",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["walnut",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["white",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]],
+			["yellow",[
+				["hat/pirate/bonnie/tilt/adult/",130]
+			]]
+		],
+		"Cavalier": [
+			["black",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["blue",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["bluegray",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["brown",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["charcoal",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["forest",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["gray",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["green",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["lavender",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["leather",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["maroon",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["navy",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["orange",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["pink",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["purple",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["red",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["rose",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["sky",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["slate",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["tan",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["teal",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["walnut",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["white",[
+				["hat/pirate/cavalier/adult/",130]
+			]],
+			["yellow",[
+				["hat/pirate/cavalier/adult/",130]
+			]]
+		],
+		"Crown": [
+			["crown_gold",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["crown_red",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["crown_blue",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["crown_gray",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["black",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["blue",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["bluegray",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["brown",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["charcoal",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["forest",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["gray",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["green",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["lavender",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["leather",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["maroon",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["navy",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["orange",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["pink",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["purple",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["red",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["rose",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["sky",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["slate",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["tan",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["teal",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["walnut",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["white",[
+				["hat/formal/crown/adult/",130]
+			]],
+			["yellow",[
+				["hat/formal/crown/adult/",130]
 			]],
 			["steel",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["iron",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["ceramic",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["brass",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["copper",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["bronze",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["silver",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]],
 			["gold",[
-				["hat/crown/crown/adult/",130]
+				["hat/formal/crown/adult/",130]
 			]]
 		],
 		"Tiara": [
 			["tiara_bronze",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["tiara_gold",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["tiara_iron",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["tiara_purple",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["tiara_silver",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["black",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["blue",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["bluegray",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["brown",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["charcoal",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["forest",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["gray",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["green",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["lavender",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["leather",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["maroon",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["navy",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["orange",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["pink",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["purple",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["red",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["rose",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["sky",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["slate",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["tan",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["teal",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["walnut",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["white",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["yellow",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["steel",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["iron",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["ceramic",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["brass",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["copper",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["bronze",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["silver",[
-				["hat/crown/tiara/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]],
 			["gold",[
-				["hat/crown/tiara/adult/",130]
-			]]
-		],
-		"Bandana": [
-			["bandana_gray",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["bandana_red",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["bandana_white",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["black",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["blue",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["bluegray",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["brown",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["charcoal",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["forest",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["gray",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["green",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["lavender",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["leather",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["maroon",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["navy",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["orange",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["pink",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["purple",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["red",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["rose",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["sky",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["slate",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["tan",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["teal",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["walnut",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["white",[
-				["hat/cloth/bandana/adult/",130]
-			]],
-			["yellow",[
-				["hat/cloth/bandana/adult/",130]
-			]]
-		],
-		"Bordered Bandana": [
-			["bandana_gray",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["bandana_red",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["bandana_white",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["black",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["blue",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["bluegray",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["brown",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["charcoal",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["forest",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["gray",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["green",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["lavender",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["leather",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["maroon",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["navy",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["orange",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["pink",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["purple",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["red",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["rose",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["sky",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["slate",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["tan",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["teal",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["walnut",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["white",[
-				["hat/cloth/bandana2/adult/",130]
-			]],
-			["yellow",[
-				["hat/cloth/bandana2/adult/",130]
+				["hat/formal/tiara/adult/",130]
 			]]
 		],
 		"Feather Cap": [
@@ -15768,6 +16207,154 @@
 			["yellow",[
 				["hat/cloth/feather_cap/alt/adult/",131]
 			]]
+		],
+		"Bonnie feather": [
+			["white",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["black",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["blue",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["bluegray",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["brown",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["charcoal",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["forest",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["gray",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["green",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["lavender",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["leather",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["maroon",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["navy",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["orange",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["pink",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["purple",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["red",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["rose",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["sky",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["slate",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["tan",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["teal",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["walnut",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]],
+			["yellow",[
+				["hat/pirate/bonnie/feather/adult/",131]
+			]]
+		],
+		"Cavalier feather": [
+			["white",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["black",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["blue",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["bluegray",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["brown",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["charcoal",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["forest",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["gray",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["green",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["lavender",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["leather",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["maroon",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["navy",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["orange",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["pink",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["purple",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["red",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["rose",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["sky",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["slate",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["tan",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["teal",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["walnut",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]],
+			["yellow",[
+				["hat/pirate/cavalier/feather/adult/",131]
+			]]
 		]
 	},
 	"hat_trim": {
@@ -16009,6 +16596,80 @@
 			]],
 			["yellow",[
 				["hat/magic/wizard/belt/adult/",131]
+			]]
+		],
+		"Bonnie Center Trim": [
+			["black",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["blue",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["bluegray",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["brown",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["charcoal",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["forest",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["gray",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["green",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["lavender",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["leather",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["maroon",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["navy",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["orange",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["pink",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["purple",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["red",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["rose",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["sky",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["slate",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["tan",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["teal",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["walnut",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["white",[
+				["hat/pirate/bonnie/trim/adult/",131]
+			]],
+			["yellow",[
+				["hat/pirate/bonnie/trim/adult/",131]
 			]]
 		]
 	},

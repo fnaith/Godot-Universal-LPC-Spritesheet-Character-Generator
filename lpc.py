@@ -293,24 +293,24 @@ def generate_spritesheet_json(spritesheet_list):
     'ponytail': ['Long Topknot', 'Short Topknot'],
     'horns': ['Backwards Horns', 'Curled Horns'],
     'fins': ['Fin', 'Short fin'],
-    'bandana': ['Bandana', 'Skull Bandana', 'Mail'],
+    'bandana': ['Bandana', 'Bordered Bandana', 'Mail'],
+    'bandana_overlay': ['Skull Bandana Overlay'],
     'headcover': ['Kerchief', 'Thick Headband', 'Tied Headband'],
     'headcover_rune': ['Thick Headband Rune'],
-    'hat': ['Reptile',
+    'hat': [\
       'Formal Bowler Hat', 'Formal Tophat', 'Misc Magic Hats', 'Wizard Hat Base',\
       # Helmets
       'Armet', 'Simple Armet', 'Barbarian', 'Barbarian nasal', 'Barbarian Viking', 'Barbuta', 'Simple barbuta', 'Bascinet', 'Pigface bascinet', 'Pigface bascinet raised', 'Round bascinet', 'Round bascinet raised', 'Close helm', 'Flattop', 'Greathelm', 'Horned helmet', 'Kettle helm', 'Legion', 'Maximus', 'Morion', 'Nasal helm', 'Norman helm', 'Pointed helm', 'Spangenhelm', 'Viking spangenhelm', 'Sugarloaf greathelm', 'Simple sugarloaf helm', 'Xeon helmet',
       # Pirate hats'
-      'Bonnie', 'Bonnie feather', 'Cavalier', 'Cavalier feather', 'Tricorne', 'Tricorne stitched', 'Tricorne thatch', 'Tricorne pirate captain', 'Tricorne lieutenant', 'Tricorne captain', 'Bicorne athwart', 'Bicorne athwart pirate', 'Bicorne athwart admiral', 'Bicorne athwart admiral with cockade', 'Bicorne athwart commodore', 'Bicorne foreaft', 'Bicorne foreaft commodore',
+      'Bonnie', 'Bonnie Alt Tilt',\
+      'Cavalier', 'Tricorne', 'Tricorne stitched', 'Tricorne thatch', 'Tricorne pirate captain', 'Tricorne lieutenant', 'Tricorne captain', 'Bicorne athwart', 'Bicorne athwart pirate', 'Bicorne athwart admiral', 'Bicorne athwart admiral with cockade', 'Bicorne athwart commodore', 'Bicorne foreaft', 'Bicorne foreaft commodore',
       # Crowns
       'Crown', 'Tiara',
-      # Bandana
-      'Bandana', 'Bordered Bandana',
       # Special'
       'Feather Cap', 'Hijab', 'Christmas Hat'
     ],
-    'hat_accessory': ['Feather Alt Colors'],
-    'hat_trim': ['Elf Trim', 'Santa Trim', 'Wizard Hat Belt'],
+    'hat_accessory': ['Feather Alt Colors', 'Bonnie feather', 'Cavalier feather'],
+    'hat_trim': ['Elf Trim', 'Santa Trim', 'Wizard Hat Belt', 'Bonnie Center Trim'],
     'hat_buckle': ['Wizard Hat Buckle'],
     'hairtie': ['Hair Tie'],
     'hairtie_rune': ['Hair Tie Rune'],
