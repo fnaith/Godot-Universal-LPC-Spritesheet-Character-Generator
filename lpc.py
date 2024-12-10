@@ -303,14 +303,21 @@ def generate_spritesheet_json(spritesheet_list):
       'Armet', 'Simple Armet', 'Barbarian', 'Barbarian nasal', 'Barbarian Viking', 'Barbuta', 'Simple barbuta', 'Bascinet', 'Pigface bascinet', 'Pigface bascinet raised', 'Round bascinet', 'Round bascinet raised', 'Close helm', 'Flattop', 'Greathelm', 'Horned helmet', 'Kettle helm', 'Legion', 'Maximus', 'Morion', 'Nasal helm', 'Norman helm', 'Pointed helm', 'Spangenhelm', 'Viking spangenhelm', 'Sugarloaf greathelm', 'Simple sugarloaf helm', 'Xeon helmet',
       # Pirate hats'
       'Bonnie', 'Bonnie Alt Tilt',\
-      'Cavalier', 'Tricorne', 'Tricorne stitched', 'Tricorne thatch', 'Tricorne pirate captain', 'Tricorne lieutenant', 'Tricorne captain', 'Bicorne athwart', 'Bicorne athwart pirate', 'Bicorne athwart admiral', 'Bicorne athwart admiral with cockade', 'Bicorne athwart commodore', 'Bicorne foreaft', 'Bicorne foreaft commodore',
+      'Cavalier', 'Tricorne', 'Bicorne foreaft',
       # Crowns
       'Crown', 'Tiara',
       # Special'
-      'Feather Cap', 'Hijab', 'Christmas Hat'
+      'Feather Cap', 'Hijab', 'Christmas Hat',\
+      'Bicorne Athwart', 'Bicorne Athwart Admiral', 'Bicorne Athwart Captain', 'Bicorne Athwart Commodore', 'Bicorne Foreaft Commodore',\
+      'Tricorne Captain', 'Tricorne Lieutenant'
     ],
-    'hat_accessory': ['Feather Alt Colors', 'Bonnie feather', 'Cavalier feather'],
-    'hat_trim': ['Elf Trim', 'Santa Trim', 'Wizard Hat Belt', 'Bonnie Center Trim'],
+    'hat_accessory': ['Feather Alt Colors', 'Bonnie feather', 'Cavalier feather', 'Bicorne Athwart Admiral Cockade'],
+    'hat_trim': [
+      'Elf Trim', 'Santa Trim', 'Wizard Hat Belt', 'Bonnie Center Trim',\
+      'Bicorne Athwart Admiral Trim', 'Bicorne Athwart Commodore Trim', 'Bicorne Foreaft Commodore Trim',\
+      'Tricorne Captain Trim', 'Tricorne Lieutenant Trim', 'Tricorne Stitching', 'Tricorne Thatching'
+    ],
+    'hat_overlay': ['Bicorne Athwart Skull', 'Bicorne Athwart Captain Skull', 'Tricorne Captain Skull'],
     'hat_buckle': ['Wizard Hat Buckle'],
     'hairtie': ['Hair Tie'],
     'hairtie_rune': ['Hair Tie Rune'],
