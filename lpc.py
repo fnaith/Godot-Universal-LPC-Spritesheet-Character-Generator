@@ -418,6 +418,13 @@ def generate_spritesheet_json(spritesheet_list):
       # Magic'
       'Simple staff', 'Loop staff', 'Diamond staff', 'Gnarled staff', 'S staff'
     ],
+    'ring': ['Stud Ring'],
+    'charm': [
+      'Cross amulet', 'Dangling amulet', 'Spider amulet', 'Star amulet', 'Box Charm', 'Oval Charm', 'Ring Charm', 'Star Charm',\
+      'Emerald cut Gem', 'Marquise cut Gem', 'Natural cut Gem', 'Pear cut Gem', 'Pearl Gem', 'Princess cut Gem', 'Round cut Gem',\
+      'Trilliant cut Gem'
+    ],
+    'necklace': ['Large Beaded Necklace', 'Necklace', 'Small Beaded Necklace', 'Chain Necklace', 'Simple Necklace'],
     'shield': [
       'Shield', 'Spartan shield',\
       # Two-engrailed Shield
