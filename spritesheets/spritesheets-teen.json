@@ -25348,150 +25348,76 @@
 		],
 		"Pants": [
 			["black",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["blue",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["bluegray",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["brown",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["charcoal",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["forest",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["gray",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["green",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["lavender",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["leather",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["maroon",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["navy",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["orange",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["pink",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["purple",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["red",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["rose",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["sky",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["slate",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["tan",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["teal",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["walnut",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["white",[
-				["legs/pants/teen/",20]
+				["legs/pants/female/",20]
 			]],
 			["yellow",[
-				["legs/pants/teen/",20]
-			]]
-		],
-		"Pants 2": [
-			["leather",[
-				["legs/pants2/thin/",20]
-			]],
-			["black",[
-				["legs/pants2/thin/",20]
-			]],
-			["blue",[
-				["legs/pants2/thin/",20]
-			]],
-			["bluegray",[
-				["legs/pants2/thin/",20]
-			]],
-			["brown",[
-				["legs/pants2/thin/",20]
-			]],
-			["charcoal",[
-				["legs/pants2/thin/",20]
-			]],
-			["forest",[
-				["legs/pants2/thin/",20]
-			]],
-			["gray",[
-				["legs/pants2/thin/",20]
-			]],
-			["green",[
-				["legs/pants2/thin/",20]
-			]],
-			["lavender",[
-				["legs/pants2/thin/",20]
-			]],
-			["maroon",[
-				["legs/pants2/thin/",20]
-			]],
-			["navy",[
-				["legs/pants2/thin/",20]
-			]],
-			["orange",[
-				["legs/pants2/thin/",20]
-			]],
-			["pink",[
-				["legs/pants2/thin/",20]
-			]],
-			["purple",[
-				["legs/pants2/thin/",20]
-			]],
-			["red",[
-				["legs/pants2/thin/",20]
-			]],
-			["rose",[
-				["legs/pants2/thin/",20]
-			]],
-			["sky",[
-				["legs/pants2/thin/",20]
-			]],
-			["slate",[
-				["legs/pants2/thin/",20]
-			]],
-			["tan",[
-				["legs/pants2/thin/",20]
-			]],
-			["teal",[
-				["legs/pants2/thin/",20]
-			]],
-			["walnut",[
-				["legs/pants2/thin/",20]
-			]],
-			["white",[
-				["legs/pants2/thin/",20]
-			]],
-			["yellow",[
-				["legs/pants2/thin/",20]
+				["legs/pants/female/",20]
 			]]
 		],
 		"Plain skirt": [
@@ -25792,76 +25718,76 @@
 		],
 		"Leggings": [
 			["black",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["blue",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["bluegray",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["brown",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["charcoal",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["forest",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["gray",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["green",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["lavender",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["leather",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["maroon",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["navy",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["orange",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["pink",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["purple",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["red",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["rose",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["sky",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["slate",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["tan",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["teal",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["walnut",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["white",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]],
 			["yellow",[
-				["legs/leggings/female/",20]
+				["legs/leggings/thin/",20]
 			]]
 		],
 		"Leggings 2": [
@@ -26232,6 +26158,80 @@
 			]],
 			["yellow",[
 				["legs/shorts/short_shorts/thin/",20]
+			]]
+		],
+		"Long Pants": [
+			["leather",[
+				["legs/pants2/thin/",20]
+			]],
+			["black",[
+				["legs/pants2/thin/",20]
+			]],
+			["blue",[
+				["legs/pants2/thin/",20]
+			]],
+			["bluegray",[
+				["legs/pants2/thin/",20]
+			]],
+			["brown",[
+				["legs/pants2/thin/",20]
+			]],
+			["charcoal",[
+				["legs/pants2/thin/",20]
+			]],
+			["forest",[
+				["legs/pants2/thin/",20]
+			]],
+			["gray",[
+				["legs/pants2/thin/",20]
+			]],
+			["green",[
+				["legs/pants2/thin/",20]
+			]],
+			["lavender",[
+				["legs/pants2/thin/",20]
+			]],
+			["maroon",[
+				["legs/pants2/thin/",20]
+			]],
+			["navy",[
+				["legs/pants2/thin/",20]
+			]],
+			["orange",[
+				["legs/pants2/thin/",20]
+			]],
+			["pink",[
+				["legs/pants2/thin/",20]
+			]],
+			["purple",[
+				["legs/pants2/thin/",20]
+			]],
+			["red",[
+				["legs/pants2/thin/",20]
+			]],
+			["rose",[
+				["legs/pants2/thin/",20]
+			]],
+			["sky",[
+				["legs/pants2/thin/",20]
+			]],
+			["slate",[
+				["legs/pants2/thin/",20]
+			]],
+			["tan",[
+				["legs/pants2/thin/",20]
+			]],
+			["teal",[
+				["legs/pants2/thin/",20]
+			]],
+			["walnut",[
+				["legs/pants2/thin/",20]
+			]],
+			["white",[
+				["legs/pants2/thin/",20]
+			]],
+			["yellow",[
+				["legs/pants2/thin/",20]
 			]]
 		]
 	},
@@ -27348,6 +27348,49 @@
 		]
 	},
 	"weapon": {
+		"Rod": [
+			["rod",[
+				["tools/rod/background/",9],
+				["tools/rod/foreground/",150]
+			]]
+		],
+		"Smash": [
+			["axe",[
+				["tools/smash/universal/female/",140],
+				["tools/smash/background/",9],
+				["tools/smash/foreground/",150]
+			]],
+			["hammer",[
+				["tools/smash/universal/female/",140],
+				["tools/smash/background/",9],
+				["tools/smash/foreground/",150]
+			]],
+			["pickaxe",[
+				["tools/smash/universal/female/",140],
+				["tools/smash/background/",9],
+				["tools/smash/foreground/",150]
+			]]
+		],
+		"Thrust": [
+			["hoe",[
+				["tools/thrust/background/",9],
+				["tools/thrust/foreground/",150]
+			]],
+			["shovel",[
+				["tools/thrust/background/",9],
+				["tools/thrust/foreground/",150]
+			]],
+			["watering",[
+				["tools/thrust/background/",9],
+				["tools/thrust/foreground/",150]
+			]]
+		],
+		"Whip": [
+			["whip",[
+				["tools/whip/background/",9],
+				["tools/whip/",150]
+			]]
+		],
 		"Normal": [
 			["light",[
 				["weapon/ranged/bow/normal/universal/background/",-1],

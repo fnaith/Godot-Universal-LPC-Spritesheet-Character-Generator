@@ -389,10 +389,11 @@ def generate_spritesheet_json(spritesheet_list):
     'sash_tie': ['Obi Knot Left', 'Obi Knot Right'],
     # Legs
     'legs': [
-      'Armour', 'Pants', 'Pants 2',\
-      'Wide pants', 'Pregnancy pants', 'Child pants',\
+      'Armour', 'Pants',\
+      'Pregnancy pants', 'Child pants',\
       'Pantaloons', 'Plain skirt', 'Slit skirt', 'Legion skirt', 'Belle skirt', 'Straight skirt', 'Leggings', 'Leggings 2',\
-      'Child skirts', 'Cuffed Pants', 'Hose', 'Shorts', 'Short Shorts'
+      'Child skirts', 'Cuffed Pants', 'Hose', 'Shorts', 'Short Shorts',\
+      'Long Pants'
     ],
     'socks': ['Tabi Socks', 'Ankle Socks', 'High Socks'],
     'shoes': [

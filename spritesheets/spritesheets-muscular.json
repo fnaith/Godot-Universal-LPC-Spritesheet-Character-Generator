@@ -23414,20 +23414,6 @@
 				["legs/pants/male/",20]
 			]]
 		],
-		"Wide pants": [
-			["black",[
-				["legs/pants/muscular/",20]
-			]],
-			["blue",[
-				["legs/pants/muscular/",20]
-			]],
-			["brown",[
-				["legs/pants/muscular/",20]
-			]],
-			["white",[
-				["legs/pants/muscular/",20]
-			]]
-		],
 		"Legion skirt": [
 			["black",[
 				["legs/skirts/legion/male/",20]
@@ -24275,6 +24261,11 @@
 		],
 		"Smash": [
 			["axe",[
+				["tools/smash/universal/male/",140],
+				["tools/smash/background/",9],
+				["tools/smash/foreground/",150]
+			]],
+			["hammer",[
 				["tools/smash/universal/male/",140],
 				["tools/smash/background/",9],
 				["tools/smash/foreground/",150]
