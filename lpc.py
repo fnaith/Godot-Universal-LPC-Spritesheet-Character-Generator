@@ -393,7 +393,7 @@ def generate_spritesheet_json(spritesheet_list):
       'Pregnancy pants', 'Child pants',\
       'Pantaloons', 'Plain skirt', 'Slit skirt', 'Legion skirt', 'Belle skirt', 'Straight skirt', 'Leggings', 'Leggings 2',\
       'Child skirts', 'Cuffed Pants', 'Hose', 'Shorts', 'Short Shorts',\
-      'Long Pants'
+      'Long Pants', 'Formal Pants', 'Wide pants'
     ],
     'socks': ['Tabi Socks', 'Ankle Socks', 'High Socks'],
     'shoes': [

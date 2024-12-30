@@ -23414,6 +23414,80 @@
 				["legs/pants/male/",20]
 			]]
 		],
+		"Pantaloons": [
+			["black",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["blue",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["bluegray",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["brown",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["charcoal",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["forest",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["gray",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["green",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["lavender",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["leather",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["maroon",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["navy",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["orange",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["pink",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["purple",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["red",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["rose",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["sky",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["slate",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["tan",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["teal",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["walnut",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["white",[
+				["legs/pantaloons/muscular/",20]
+			]],
+			["yellow",[
+				["legs/pantaloons/muscular/",20]
+			]]
+		],
 		"Legion skirt": [
 			["black",[
 				["legs/skirts/legion/male/",20]
@@ -23486,6 +23560,91 @@
 			]],
 			["yellow",[
 				["legs/skirts/legion/male/",20]
+			]]
+		],
+		"Formal Pants": [
+			["formal",[
+				["legs/formal/male/",20]
+			]],
+			["formal_striped",[
+				["legs/formal/male/",20]
+			]],
+			["furbrown",[
+				["legs/formal/male/",20]
+			]]
+		],
+		"Wide pants": [
+			["black",[
+				["legs/pants/muscular/",20]
+			]],
+			["blue",[
+				["legs/pants/muscular/",20]
+			]],
+			["bluegray",[
+				["legs/pants/muscular/",20]
+			]],
+			["brown",[
+				["legs/pants/muscular/",20]
+			]],
+			["charcoal",[
+				["legs/pants/muscular/",20]
+			]],
+			["forest",[
+				["legs/pants/muscular/",20]
+			]],
+			["gray",[
+				["legs/pants/muscular/",20]
+			]],
+			["green",[
+				["legs/pants/muscular/",20]
+			]],
+			["lavender",[
+				["legs/pants/muscular/",20]
+			]],
+			["leather",[
+				["legs/pants/muscular/",20]
+			]],
+			["maroon",[
+				["legs/pants/muscular/",20]
+			]],
+			["navy",[
+				["legs/pants/muscular/",20]
+			]],
+			["orange",[
+				["legs/pants/muscular/",20]
+			]],
+			["pink",[
+				["legs/pants/muscular/",20]
+			]],
+			["purple",[
+				["legs/pants/muscular/",20]
+			]],
+			["red",[
+				["legs/pants/muscular/",20]
+			]],
+			["rose",[
+				["legs/pants/muscular/",20]
+			]],
+			["sky",[
+				["legs/pants/muscular/",20]
+			]],
+			["slate",[
+				["legs/pants/muscular/",20]
+			]],
+			["tan",[
+				["legs/pants/muscular/",20]
+			]],
+			["teal",[
+				["legs/pants/muscular/",20]
+			]],
+			["walnut",[
+				["legs/pants/muscular/",20]
+			]],
+			["white",[
+				["legs/pants/muscular/",20]
+			]],
+			["yellow",[
+				["legs/pants/muscular/",20]
 			]]
 		]
 	},
