@@ -27435,76 +27435,150 @@
 		],
 		"Pants": [
 			["black",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["blue",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["bluegray",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["brown",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["charcoal",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["forest",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["gray",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["green",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["lavender",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["leather",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["maroon",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["navy",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["orange",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["pink",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["purple",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["red",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["rose",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["sky",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["slate",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["tan",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["teal",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["walnut",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["white",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
 			]],
 			["yellow",[
-				["legs/pants/female/",20]
+				["legs/pants/thin/",20]
+			]]
+		],
+		"Pantaloons": [
+			["black",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["blue",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["bluegray",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["brown",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["charcoal",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["forest",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["gray",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["green",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["lavender",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["leather",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["maroon",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["navy",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["orange",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["pink",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["purple",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["red",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["rose",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["sky",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["slate",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["tan",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["teal",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["walnut",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["white",[
+				["legs/pantaloons/thin/",20]
+			]],
+			["yellow",[
+				["legs/pantaloons/thin/",20]
 			]]
 		],
 		"Plain skirt": [
@@ -28393,6 +28467,258 @@
 			]],
 			["yellow",[
 				["legs/pants2/thin/",20]
+			]]
+		],
+		"Formal Pants": [
+			["base",[
+				["legs/formal/thin/",20]
+			]],
+			["black",[
+				["legs/formal/thin/",20]
+			]],
+			["blue",[
+				["legs/formal/thin/",20]
+			]],
+			["bluegray",[
+				["legs/formal/thin/",20]
+			]],
+			["brown",[
+				["legs/formal/thin/",20]
+			]],
+			["charcoal",[
+				["legs/formal/thin/",20]
+			]],
+			["forest",[
+				["legs/formal/thin/",20]
+			]],
+			["gray",[
+				["legs/formal/thin/",20]
+			]],
+			["green",[
+				["legs/formal/thin/",20]
+			]],
+			["lavender",[
+				["legs/formal/thin/",20]
+			]],
+			["leather",[
+				["legs/formal/thin/",20]
+			]],
+			["maroon",[
+				["legs/formal/thin/",20]
+			]],
+			["navy",[
+				["legs/formal/thin/",20]
+			]],
+			["orange",[
+				["legs/formal/thin/",20]
+			]],
+			["pink",[
+				["legs/formal/thin/",20]
+			]],
+			["purple",[
+				["legs/formal/thin/",20]
+			]],
+			["red",[
+				["legs/formal/thin/",20]
+			]],
+			["rose",[
+				["legs/formal/thin/",20]
+			]],
+			["sky",[
+				["legs/formal/thin/",20]
+			]],
+			["slate",[
+				["legs/formal/thin/",20]
+			]],
+			["tan",[
+				["legs/formal/thin/",20]
+			]],
+			["teal",[
+				["legs/formal/thin/",20]
+			]],
+			["walnut",[
+				["legs/formal/thin/",20]
+			]],
+			["white",[
+				["legs/formal/thin/",20]
+			]],
+			["yellow",[
+				["legs/formal/thin/",20]
+			]]
+		],
+		"Striped Formal Pants": [
+			["base",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["black",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["blue",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["bluegray",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["brown",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["charcoal",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["forest",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["gray",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["green",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["lavender",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["leather",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["maroon",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["navy",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["orange",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["pink",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["purple",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["red",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["rose",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["sky",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["slate",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["tan",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["teal",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["walnut",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["white",[
+				["legs/formal_striped/thin/",20]
+			]],
+			["yellow",[
+				["legs/formal_striped/thin/",20]
+			]]
+		],
+		"Fur Pants": [
+			["base",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_black",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_brown",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_tan",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_copper",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_gold",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_grey",[
+				["legs/fur/thin/",20]
+			]],
+			["fur_white",[
+				["legs/fur/thin/",20]
+			]],
+			["black",[
+				["legs/fur/thin/",20]
+			]],
+			["blue",[
+				["legs/fur/thin/",20]
+			]],
+			["bluegray",[
+				["legs/fur/thin/",20]
+			]],
+			["brown",[
+				["legs/fur/thin/",20]
+			]],
+			["charcoal",[
+				["legs/fur/thin/",20]
+			]],
+			["forest",[
+				["legs/fur/thin/",20]
+			]],
+			["gray",[
+				["legs/fur/thin/",20]
+			]],
+			["green",[
+				["legs/fur/thin/",20]
+			]],
+			["lavender",[
+				["legs/fur/thin/",20]
+			]],
+			["leather",[
+				["legs/fur/thin/",20]
+			]],
+			["maroon",[
+				["legs/fur/thin/",20]
+			]],
+			["navy",[
+				["legs/fur/thin/",20]
+			]],
+			["orange",[
+				["legs/fur/thin/",20]
+			]],
+			["pink",[
+				["legs/fur/thin/",20]
+			]],
+			["purple",[
+				["legs/fur/thin/",20]
+			]],
+			["red",[
+				["legs/fur/thin/",20]
+			]],
+			["rose",[
+				["legs/fur/thin/",20]
+			]],
+			["sky",[
+				["legs/fur/thin/",20]
+			]],
+			["slate",[
+				["legs/fur/thin/",20]
+			]],
+			["tan",[
+				["legs/fur/thin/",20]
+			]],
+			["teal",[
+				["legs/fur/thin/",20]
+			]],
+			["walnut",[
+				["legs/fur/thin/",20]
+			]],
+			["white",[
+				["legs/fur/thin/",20]
+			]],
+			["yellow",[
+				["legs/fur/thin/",20]
 			]]
 		]
 	},
