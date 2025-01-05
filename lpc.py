@@ -309,7 +309,7 @@ def generate_spritesheet_json(spritesheet_list):
       # Special'
       'Feather Cap', 'Hijab', 'Christmas Hat',\
       'Bicorne Athwart', 'Bicorne Athwart Admiral', 'Bicorne Athwart Captain', 'Bicorne Athwart Commodore', 'Bicorne Foreaft Commodore',\
-      'Tricorne Captain', 'Tricorne Lieutenant'
+      'Tricorne Captain', 'Tricorne Lieutenant', 'Sack Cloth Hood'
     ],
     'hat_accessory': ['Feather Alt Colors', 'Bonnie feather', 'Cavalier feather', 'Bicorne Athwart Admiral Cockade'],
     'hat_trim': [
